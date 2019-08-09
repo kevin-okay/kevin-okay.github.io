@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>浪里个浪的博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://kevin-okay.github.io/"/>
+  <updated>2019-08-09T01:09:04.253Z</updated>
+  <id>http://kevin-okay.github.io/</id>
+  
+  <author>
+    <name>浪里个浪</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>a picture</title>
+    <link href="http://kevin-okay.github.io/2019/08/09/a-picture/"/>
+    <id>http://kevin-okay.github.io/2019/08/09/a-picture/</id>
+    <published>2019-08-09T00:51:46.000Z</published>
+    <updated>2019-08-09T01:09:04.253Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="就想发个图片试试！！"><a href="#就想发个图片试试！！" class="headerlink" title="就想发个图片试试！！"></a>就想发个图片试试！！</h5><a id="more"></a><p><img src="http://wx1.sinaimg.cn/mw690/77fca518ly1g5t5072vemj20u01hch0h.jpg" alt="壁纸图片"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h5 id=&quot;就想发个图片试试！！&quot;&gt;&lt;a href=&quot;#就想发个图片试试！！&quot; class=&quot;headerlink&quot; title=&quot;就想发个图片试试！！&quot;&gt;&lt;/a&gt;就想发个图片试试！！&lt;/h5&gt;
+    
+    </summary>
+    
+    
+      <category term="图片" scheme="http://kevin-okay.github.io/tags/%E5%9B%BE%E7%89%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人的痛苦</title>
+    <link href="http://kevin-okay.github.io/2019/08/08/%E4%BA%BA%E7%9A%84%E7%97%9B%E8%8B%A6/"/>
+    <id>http://kevin-okay.github.io/2019/08/08/人的痛苦/</id>
+    <published>2019-08-08T08:54:21.000Z</published>
+    <updated>2019-08-08T09:07:22.857Z</updated>
+    
+    <content type="html"><![CDATA[<!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 --><!-- 其中 class="blockquote-center" 是必须的 --><blockquote class="blockquote-center">blah blah blah</blockquote><!-- 标签 方式，要求版本在0.4.5或以上 --><blockquote class="blockquote-center"><p>blah blah blah</p></blockquote><!-- 标签别名 --><blockquote class="blockquote-center"><p>blah blah blah </p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 --&gt;
+&lt;!-- 其中 class=&quot;blockquote-center&quot; 是必须的 --&gt;
+
+&lt;blockquote class=&quot;blockquote-center&quot;&gt;blah blah bla
+      
+    
+    </summary>
+    
+    
+      <category term="散文" scheme="http://kevin-okay.github.io/tags/%E6%95%A3%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>标签测试</title>
+    <link href="http://kevin-okay.github.io/2019/08/08/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/"/>
+    <id>http://kevin-okay.github.io/2019/08/08/标签测试/</id>
+    <published>2019-08-08T07:51:52.000Z</published>
+    <updated>2019-08-08T07:56:58.289Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="Testing" scheme="http://kevin-okay.github.io/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="http://kevin-okay.github.io/tags/Another-Tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo搭建</title>
+    <link href="http://kevin-okay.github.io/2019/08/07/hexo%E6%90%AD%E5%BB%BA/"/>
+    <id>http://kevin-okay.github.io/2019/08/07/hexo搭建/</id>
+    <published>2019-08-07T08:11:05.000Z</published>
+    <updated>2019-08-07T08:26:14.076Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是？</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这是？&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="天气" scheme="http://kevin-okay.github.io/tags/%E5%A4%A9%E6%B0%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://kevin-okay.github.io/2019/08/07/hello-world/"/>
+    <id>http://kevin-okay.github.io/2019/08/07/hello-world/</id>
+    <published>2019-08-07T07:17:07.483Z</published>
+    <updated>2019-08-07T07:17:07.483Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
