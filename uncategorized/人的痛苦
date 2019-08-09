@@ -57,20 +57,20 @@
   };
 </script>
 
-  <meta name="description" content="这是？">
-<meta name="keywords" content="天气">
+  <meta name="description" content="blah blah blah  blah blah blah   blah blah blah">
+<meta name="keywords" content="散文">
 <meta property="og:type" content="article">
-<meta property="og:title" content="hexo搭建">
-<meta property="og:url" content="http://kevin-okay.github.io/2019/08/07/hexo搭建/index.html">
+<meta property="og:title" content="人的痛苦">
+<meta property="og:url" content="http://kevin-okay.github.io/uncategorized/人的痛苦">
 <meta property="og:site_name" content="浪里个浪的博客">
-<meta property="og:description" content="这是？">
+<meta property="og:description" content="blah blah blah  blah blah blah   blah blah blah">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-08-07T08:26:14.076Z">
+<meta property="og:updated_time" content="2019-08-08T09:07:22.857Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="hexo搭建">
-<meta name="twitter:description" content="这是？">
+<meta name="twitter:title" content="人的痛苦">
+<meta name="twitter:description" content="blah blah blah  blah blah blah   blah blah blah">
   <link rel="alternate" href="/atom.xml" title="浪里个浪的博客" type="application/atom+xml">
-  <link rel="canonical" href="http://kevin-okay.github.io/2019/08/07/hexo搭建/">
+  <link rel="canonical" href="http://kevin-okay.github.io/uncategorized/人的痛苦">
 
 
 <script id="page-configurations">
@@ -84,7 +84,7 @@
   };
 </script>
 
-  <title>hexo搭建 | 浪里个浪的博客</title>
+  <title>人的痛苦 | 浪里个浪的博客</title>
   
 
 
@@ -279,7 +279,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://kevin-okay.github.io/2019/08/07/hexo搭建/">
+    <link itemprop="mainEntityOfPage" href="http://kevin-okay.github.io/uncategorized/人的痛苦">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="浪里个浪">
@@ -293,7 +293,7 @@
       <header class="post-header">
 
         
-          <h1 class="post-title" itemprop="name headline">hexo搭建
+          <h1 class="post-title" itemprop="name headline">人的痛苦
 
             
           </h1>
@@ -310,7 +310,7 @@
                 
               
 
-              <time title="创建时间：2019-08-07 16:11:05 / 修改时间：16:26:14" itemprop="dateCreated datePublished" datetime="2019-08-07T16:11:05+08:00">2019-08-07</time>
+              <time title="创建时间：2019-08-08 16:54:21 / 修改时间：17:07:22" itemprop="dateCreated datePublished" datetime="2019-08-08T16:54:21+08:00">2019-08-08</time>
             </span>
           
             
@@ -337,7 +337,17 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <p>这是？</p>
+        <!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 -->
+<!-- 其中 class="blockquote-center" 是必须的 -->
+
+<blockquote class="blockquote-center">blah blah blah</blockquote>
+<!-- 标签 方式，要求版本在0.4.5或以上 -->
+<blockquote class="blockquote-center"><p>blah blah blah</p>
+</blockquote>
+<!-- 标签别名 -->
+<blockquote class="blockquote-center"><p>blah blah blah </p>
+</blockquote>
+
 
     </div>
 
@@ -349,13 +359,13 @@
           
         
         <div class="post-tags">
-            <a href="/tags/天气/" rel="tag"><i class="fa fa-tag"></i>天气</a>
+            <a href="/tags/散文/" rel="tag"><i class="fa fa-tag"></i>散文</a>
           
         </div>
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
-              <a href="/2019/08/07/hello-world/" rel="next" title="Hello World">
-                <i class="fa fa-chevron-left"></i> Hello World
+              <a href="/uncategorized/标签测试" rel="next" title="标签测试">
+                <i class="fa fa-chevron-left"></i> 标签测试
               </a>
             
           </div>
@@ -363,8 +373,8 @@
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
-              <a href="/2019/08/08/标签测试/" rel="prev" title="标签测试">
-                标签测试 <i class="fa fa-chevron-right"></i>
+              <a href="/uncategorized/a-picture" rel="prev" title="a picture">
+                a picture <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>

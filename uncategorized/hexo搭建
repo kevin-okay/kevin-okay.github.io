@@ -57,22 +57,20 @@
   };
 </script>
 
-  <meta name="description" content="就想发个图片试试！！">
-<meta name="keywords" content="图片">
+  <meta name="description" content="这是？">
+<meta name="keywords" content="天气">
 <meta property="og:type" content="article">
-<meta property="og:title" content="a picture">
-<meta property="og:url" content="http://kevin-okay.github.io/2019/08/09/a-picture/index.html">
+<meta property="og:title" content="hexo搭建">
+<meta property="og:url" content="http://kevin-okay.github.io/uncategorized/hexo搭建">
 <meta property="og:site_name" content="浪里个浪的博客">
-<meta property="og:description" content="就想发个图片试试！！">
+<meta property="og:description" content="这是？">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:image" content="http://wx1.sinaimg.cn/mw690/77fca518ly1g5t5072vemj20u01hch0h.jpg">
-<meta property="og:updated_time" content="2019-08-09T01:09:04.253Z">
+<meta property="og:updated_time" content="2019-08-07T08:26:14.076Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="a picture">
-<meta name="twitter:description" content="就想发个图片试试！！">
-<meta name="twitter:image" content="http://wx1.sinaimg.cn/mw690/77fca518ly1g5t5072vemj20u01hch0h.jpg">
+<meta name="twitter:title" content="hexo搭建">
+<meta name="twitter:description" content="这是？">
   <link rel="alternate" href="/atom.xml" title="浪里个浪的博客" type="application/atom+xml">
-  <link rel="canonical" href="http://kevin-okay.github.io/2019/08/09/a-picture/">
+  <link rel="canonical" href="http://kevin-okay.github.io/uncategorized/hexo搭建">
 
 
 <script id="page-configurations">
@@ -86,7 +84,7 @@
   };
 </script>
 
-  <title>a picture | 浪里个浪的博客</title>
+  <title>hexo搭建 | 浪里个浪的博客</title>
   
 
 
@@ -281,7 +279,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://kevin-okay.github.io/2019/08/09/a-picture/">
+    <link itemprop="mainEntityOfPage" href="http://kevin-okay.github.io/uncategorized/hexo搭建">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="浪里个浪">
@@ -295,7 +293,7 @@
       <header class="post-header">
 
         
-          <h1 class="post-title" itemprop="name headline">a picture
+          <h1 class="post-title" itemprop="name headline">hexo搭建
 
             
           </h1>
@@ -312,7 +310,7 @@
                 
               
 
-              <time title="创建时间：2019-08-09 08:51:46 / 修改时间：09:09:04" itemprop="dateCreated datePublished" datetime="2019-08-09T08:51:46+08:00">2019-08-09</time>
+              <time title="创建时间：2019-08-07 16:11:05 / 修改时间：16:26:14" itemprop="dateCreated datePublished" datetime="2019-08-07T16:11:05+08:00">2019-08-07</time>
             </span>
           
             
@@ -339,9 +337,7 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <h5 id="就想发个图片试试！！"><a href="#就想发个图片试试！！" class="headerlink" title="就想发个图片试试！！"></a>就想发个图片试试！！</h5><a id="more"></a>
-
-<p><img src="http://wx1.sinaimg.cn/mw690/77fca518ly1g5t5072vemj20u01hch0h.jpg" alt="壁纸图片"></p>
+        <p>这是？</p>
 
     </div>
 
@@ -353,13 +349,13 @@
           
         
         <div class="post-tags">
-            <a href="/tags/图片/" rel="tag"><i class="fa fa-tag"></i>图片</a>
+            <a href="/tags/天气/" rel="tag"><i class="fa fa-tag"></i>天气</a>
           
         </div>
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
-              <a href="/2019/08/08/人的痛苦/" rel="next" title="人的痛苦">
-                <i class="fa fa-chevron-left"></i> 人的痛苦
+              <a href="/uncategorized/hello-world" rel="next" title="Hello World">
+                <i class="fa fa-chevron-left"></i> Hello World
               </a>
             
           </div>
@@ -367,8 +363,8 @@
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
-              <a href="/2019/08/09/几个图片/" rel="prev" title="几个图片">
-                几个图片 <i class="fa fa-chevron-right"></i>
+              <a href="/uncategorized/标签测试" rel="prev" title="标签测试">
+                标签测试 <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -409,17 +405,8 @@
 
   <aside id="sidebar" class="sidebar">
     <div class="sidebar-inner">
-        <ul class="sidebar-nav motion-element">
-          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
-            文章目录
-          </li>
-          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
-            站点概览
-          </li>
-        </ul>
-      
 
-      <div class="site-overview-wrap sidebar-panel">
+      <div class="site-overview-wrap sidebar-panel sidebar-panel-active">
         <div class="site-overview">
 
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -543,23 +530,6 @@
 
         </div>
       </div>
-      <!--noindex-->
-        <div class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
-          <div class="post-toc">
-
-            
-            
-            
-            
-
-            
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-5"><a class="nav-link" href="#就想发个图片试试！！"><span class="nav-number">1.</span> <span class="nav-text">就想发个图片试试！！</span></a></li></ol></div>
-            
-
-          </div>
-        </div>
-      <!--/noindex-->
-      
 
     </div>
   </aside>
