@@ -57,18 +57,20 @@
   };
 </script>
 
-  <meta name="description" content="记录日常">
-<meta property="og:type" content="website">
-<meta property="og:title" content="浪里个浪的博客">
-<meta property="og:url" content="http://kevin-okay.github.io/tags/Testing/index.html">
+  <meta name="description" content="代码如下1234567891011121314151617181920212223242526272829303132333435363738394041424344454647$ hexo g -dINFO  Start processingFATAL Something&amp;apos;s wrong. Maybe you can find the solution here: http://hex">
+<meta name="keywords" content="code">
+<meta property="og:type" content="article">
+<meta property="og:title" content="code1">
+<meta property="og:url" content="http://kevin-okay.github.io/uncategorized/code1">
 <meta property="og:site_name" content="浪里个浪的博客">
-<meta property="og:description" content="记录日常">
+<meta property="og:description" content="代码如下1234567891011121314151617181920212223242526272829303132333435363738394041424344454647$ hexo g -dINFO  Start processingFATAL Something&amp;apos;s wrong. Maybe you can find the solution here: http://hex">
 <meta property="og:locale" content="zh-CN">
+<meta property="og:updated_time" content="2019-08-09T11:51:25.410Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="浪里个浪的博客">
-<meta name="twitter:description" content="记录日常">
+<meta name="twitter:title" content="code1">
+<meta name="twitter:description" content="代码如下1234567891011121314151617181920212223242526272829303132333435363738394041424344454647$ hexo g -dINFO  Start processingFATAL Something&amp;apos;s wrong. Maybe you can find the solution here: http://hex">
   <link rel="alternate" href="/atom.xml" title="浪里个浪的博客" type="application/atom+xml">
-  <link rel="canonical" href="http://kevin-okay.github.io/tags/Testing/">
+  <link rel="canonical" href="http://kevin-okay.github.io/uncategorized/code1">
 
 
 <script id="page-configurations">
@@ -76,13 +78,13 @@
   CONFIG.page = {
     sidebar: "",
     isHome: false,
-    isPost: false,
+    isPost: true,
     isPage: false,
     isArchive: false
   };
 </script>
 
-  <title>标签: Testing | 浪里个浪的博客</title>
+  <title>code1 | 浪里个浪的博客</title>
   
 
 
@@ -266,97 +268,126 @@
         <div class="content-wrap">
             
 
-    
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-      
-      
-    
-    
-
-  
-
-          <div id="content" class="content ">
+          <div id="content" class="content page-post-detail">
             
 
-  
-  
-  
-  <div class="post-block tag">
-
-    <div id="posts" class="posts-collapse">
-      <div class="collection-title">
-        <h1>Testing<small>标签</small>
-        </h1>
-      </div>
-
-      
-
-  
-  
-  
-
-  
+  <div id="posts" class="posts-expand">
     
-    <div class="collection-title">
-      <h1 class="archive-year" id="archive-year-2019">2019</h1>
-    </div>
-  
-  
 
   <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://kevin-okay.github.io/uncategorized/code1">
 
-      <h2 class="post-title">
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="浪里个浪">
+      <meta itemprop="description" content="记录日常">
+      <meta itemprop="image" content="/images/avatar4.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="浪里个浪的博客">
+    </span>
+      <header class="post-header">
+
         
-          <a class="post-title-link" href="/uncategorized/标签测试" itemprop="url">
+          <h1 class="post-title" itemprop="name headline">code1
+
             
-              <span itemprop="name">标签测试</span>
-            
-          </a>
+          </h1>
         
-      </h2>
 
-      <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated"
-              datetime="2019-08-08T15:51:52+08:00"
-              content="2019-08-08">
-          08-08
-        </time>
-      </div>
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
 
-    </header>
-  </article>
+              
+                
+              
 
+              <time title="创建时间：2019-08-09 19:49:37 / 修改时间：19:51:25" itemprop="dateCreated datePublished" datetime="2019-08-09T19:49:37+08:00">2019-08-09</time>
+            </span>
+          
+            
+
+            
+          
+
+          
+            <span class="post-meta-item" title="阅读次数">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span class="busuanzi-value" id="busuanzi_value_page_pv"></span>
+            </span>
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <h3 id="代码如下"><a href="#代码如下" class="headerlink" title="代码如下"></a>代码如下</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g -d</span><br><span class="line">INFO  Start processing</span><br><span class="line">FATAL Something&apos;s wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html</span><br><span class="line">Template render error: (unknown path) [Line 7, Column 23]</span><br><span class="line">  Error: Unable to call `the return value of (posts[&quot;first&quot;])[&quot;updated&quot;][&quot;toISOString&quot;]`, which is undefined or falsey</span><br><span class="line">    at Object.exports.prettifyError (D:\hexo\node_modules\nunjucks\src\lib.js:34:15)</span><br><span class="line">    at D:\hexo\node_modules\nunjucks\src\environment.js:486:31</span><br><span class="line">    at new_cls.root [as rootRenderFunc] (eval at _compile (D:\hexo\node_modules\nunjucks\src\environment.js:565:24), &lt;anonymous&gt;:161:3)</span><br><span class="line">    at new_cls.render (D:\hexo\node_modules\nunjucks\src\environment.js:479:15)</span><br><span class="line">    at Hexo.module.exports (D:\hexo\node_modules\hexo-generator-feed\lib\generator.js:28:22)</span><br><span class="line">    at Hexo.tryCatcher (D:\hexo\node_modules\bluebird\js\release\util.js:16:23)</span><br><span class="line">    at Hexo.&lt;anonymous&gt; (D:\hexo\node_modules\bluebird\js\release\method.js:15:34)</span><br><span class="line">    at D:\hexo\node_modules\hexo\lib\hexo\index.js:337:24</span><br><span class="line">    at tryCatcher (D:\hexo\node_modules\bluebird\js\release\util.js:16:23)</span><br><span class="line">    at MappingPromiseArray._promiseFulfilled (D:\hexo\node_modules\bluebird\js\release\map.js:61:38)</span><br><span class="line">    at MappingPromiseArray.PromiseArray._iterate (D:\hexo\node_modules\bluebird\js\release\promise_array.js:114:31)</span><br><span class="line">    at MappingPromiseArray.init (D:\hexo\node_modules\bluebird\js\release\promise_array.js:78:10)</span><br><span class="line">    at MappingPromiseArray._asyncInit (D:\hexo\node_modules\bluebird\js\release\map.js:30:10)</span><br><span class="line">    at Async._drainQueue (D:\hexo\node_modules\bluebird\js\release\async.js:138:12)</span><br><span class="line">    at Async._drainQueues (D:\hexo\node_modules\bluebird\js\release\async.js:143:10)</span><br><span class="line">    at Immediate.Async.drainQueues (D:\hexo\node_modules\bluebird\js\release\async.js:17:14)</span><br><span class="line">    at runCallback (timers.js:651:20)</span><br><span class="line">    at tryOnImmediate (timers.js:624:5)</span><br><span class="line">    at processImmediate [as _immediateCallback] (timers.js:596:5)</span><br><span class="line">FATAL (unknown path) [Line 7, Column 23]</span><br><span class="line">  Error: Unable to call `the return value of (posts[&quot;first&quot;])[&quot;updated&quot;][&quot;toISOString&quot;]`, which is undefined or falsey</span><br><span class="line">Template render error: (unknown path) [Line 7, Column 23]</span><br><span class="line">  Error: Unable to call `the return value of (posts[&quot;first&quot;])[&quot;updated&quot;][&quot;toISOString&quot;]`, which is undefined or falsey</span><br><span class="line">    at Object.exports.prettifyError (D:\hexo\node_modules\nunjucks\src\lib.js:34:15)</span><br><span class="line">    at D:\hexo\node_modules\nunjucks\src\environment.js:486:31</span><br><span class="line">    at new_cls.root [as rootRenderFunc] (eval at _compile (D:\hexo\node_modules\nunjucks\src\environment.js:565:24), &lt;anonymous&gt;:161:3)</span><br><span class="line">    at new_cls.render (D:\hexo\node_modules\nunjucks\src\environment.js:479:15)</span><br><span class="line">    at Hexo.module.exports (D:\hexo\node_modules\hexo-generator-feed\lib\generator.js:28:22)</span><br><span class="line">    at Hexo.tryCatcher (D:\hexo\node_modules\bluebird\js\release\util.js:16:23)</span><br><span class="line">    at Hexo.&lt;anonymous&gt; (D:\hexo\node_modules\bluebird\js\release\method.js:15:34)</span><br><span class="line">    at D:\hexo\node_modules\hexo\lib\hexo\index.js:337:24</span><br><span class="line">    at tryCatcher (D:\hexo\node_modules\bluebird\js\release\util.js:16:23)</span><br><span class="line">    at MappingPromiseArray._promiseFulfilled (D:\hexo\node_modules\bluebird\js\release\map.js:61:38)</span><br><span class="line">    at MappingPromiseArray.PromiseArray._iterate (D:\hexo\node_modules\bluebird\js\release\promise_array.js:114:31)</span><br><span class="line">    at MappingPromiseArray.init (D:\hexo\node_modules\bluebird\js\release\promise_array.js:78:10)</span><br><span class="line">    at MappingPromiseArray._asyncInit (D:\hexo\node_modules\bluebird\js\release\map.js:30:10)</span><br><span class="line">    at Async._drainQueue (D:\hexo\node_modules\bluebird\js\release\async.js:138:12)</span><br><span class="line">    at Async._drainQueues (D:\hexo\node_modules\bluebird\js\release\async.js:143:10)</span><br><span class="line">    at Immediate.Async.drainQueues (D:\hexo\node_modules\bluebird\js\release\async.js:17:14)</span><br><span class="line">    at runCallback (timers.js:651:20)</span><br><span class="line">    at tryOnImmediate (timers.js:624:5)</span><br><span class="line">    at processImmediate [as _immediateCallback] (timers.js:596:5)</span><br></pre></td></tr></table></figure>
 
 
     </div>
 
+    
+    
+    
+
+    <footer class="post-footer">
+          
+        
+        <div class="post-tags">
+            <a href="/tags/code/" rel="tag"><i class="fa fa-tag"></i>code</a>
+          
+        </div>
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+              <a href="/uncategorized/几个图片" rel="next" title="几个图片">
+                <i class="fa fa-chevron-left"></i> 几个图片
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+          </div>
+        </div>
+    </footer>
+  </div>
+  <div>
+    
+    <div>
+    
+        <div style="text-align:center;color: #ccc;font-size:14px;">------ 本文结束------</div>
+    
+</div>
+    
   </div>
   
   
   
+  </article>
 
-  
-
+  </div>
 
 
           </div>
           
+
 
         </div>
           
@@ -371,8 +402,17 @@
 
   <aside id="sidebar" class="sidebar">
     <div class="sidebar-inner">
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
 
-      <div class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <div class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
 
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -498,6 +538,23 @@
 
         </div>
       </div>
+      <!--noindex-->
+        <div class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+            
+            
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#代码如下"><span class="nav-number">1.</span> <span class="nav-text">代码如下</span></a></li></ol></div>
+            
+
+          </div>
+        </div>
+      <!--/noindex-->
+      
 
     </div>
   </aside>
@@ -617,5 +674,9 @@
 
 
   
+  <script src="/js/scrollspy.js?v=7.3.0"></script>
+<script src="/js/post-details.js?v=7.3.0"></script>
+
+
 </body>
 </html>
