@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[畅想游戏]]></title>
+    <url>%2F2019%2F08%2F10%2F%E7%95%85%E6%83%B3%E6%B8%B8%E6%88%8F%2F</url>
+    <content type="text"><![CDATA[以下内容，仅供娱乐！！]]></content>
+      <tags>
+        <tag>游戏</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[多个图片的组合]]></title>
     <url>%2F2019%2F08%2F10%2F%E5%A4%9A%E4%B8%AA%E5%9B%BE%E7%89%87%E7%9A%84%E7%BB%84%E5%90%88%2F</url>
     <content type="text"></content>
@@ -19,7 +27,7 @@
   <entry>
     <title><![CDATA[几个图片]]></title>
     <url>%2F2019%2F08%2F09%2F%E5%87%A0%E4%B8%AA%E5%9B%BE%E7%89%87%2F</url>
-    <content type="text"><![CDATA[上传几个图片看看！！]]></content>
+    <content type="text"><![CDATA[讯飞有声如果说过去的十年是“读图时代”，那么可以毫不夸张地说，未来的十年将是前所未有的“有声时代”。从苹果公司的智能语音助手Siri多次升级改造和技术革新，到锤子科技发布号称“重新定义未来”的TNT语音工作站，再次证明在人工智能的全力助攻下，声音将是下一代科技革命的主宰。 科大讯飞是智能语音及人工智能上市公司和中国人工智能产业的领军企业，在2017年7月推出一款可将任意文本秒变人声的黑科技产品“讯飞有声”。上线一年多以来，已实现全面升级，真正做到内容优质化，功能专业化，操作便捷化，体验人性化。讯飞有声特有的智能语音合成功能依托于科大讯飞十九年的语音合成技术沉淀，支持多语种多方言多角色朗读，人声音质可媲美真人主播发音。]]></content>
       <tags>
         <tag>hexo</tag>
       </tags>
