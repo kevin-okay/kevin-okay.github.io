@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevin-okay.github.io/"/>
-  <updated>2019-08-10T10:36:47.579Z</updated>
+  <updated>2019-08-11T00:21:21.847Z</updated>
   <id>http://kevin-okay.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>NEXT主题的配置</title>
+    <link href="http://kevin-okay.github.io/2019/08/11/NEXT%E4%B8%BB%E9%A2%98%E7%9A%84%E9%85%8D%E7%BD%AE/"/>
+    <id>http://kevin-okay.github.io/2019/08/11/NEXT主题的配置/</id>
+    <published>2019-08-11T00:21:21.000Z</published>
+    <updated>2019-08-11T00:21:21.847Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>HEXO的安装</title>
+    <link href="http://kevin-okay.github.io/2019/08/11/HEXO%E7%9A%84%E5%AE%89%E8%A3%85/"/>
+    <id>http://kevin-okay.github.io/2019/08/11/HEXO的安装/</id>
+    <published>2019-08-11T00:20:42.000Z</published>
+    <updated>2019-08-11T00:20:42.042Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>畅想游戏</title>
