@@ -3,12 +3,18 @@
   <entry>
     <title><![CDATA[NEXT主题的配置]]></title>
     <url>%2F2019%2F08%2F11%2FNEXT%E4%B8%BB%E9%A2%98%E7%9A%84%E9%85%8D%E7%BD%AE%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[相关需要设置的参数 侧边栏 头相 RSS 社交 友情链接 -与_的区分 ：要敲个空格 插入图片（md文件） 菜单栏的显示与设置 页脚设置（建站时间、不蒜子、建站工具、网站主题、全站字数等） Creative Commons 4.0 设置 主题方案 scrollpercent 文章字数统计 链接文字的颜色设置]]></content>
+      <tags>
+        <tag>code</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[HEXO的安装]]></title>
     <url>%2F2019%2F08%2F11%2FHEXO%E7%9A%84%E5%AE%89%E8%A3%85%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[搭建HEXO的几个主要步骤：前提： 安装Git 安装Nodejs（自带NPM工具） 安装HEXO-CLI12345npm install hexo-cli -g #安装hexo-clihexo init blog #新建blog文件夹，并通过hexo配置所需环境cd blog #进如该文件夹npm install #安装hexo的依赖包hexo server #启动生成的本地博客网站]]></content>
+      <tags>
+        <tag>code</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[畅想游戏]]></title>

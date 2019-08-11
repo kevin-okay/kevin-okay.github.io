@@ -35,7 +35,7 @@
     sidebar: {"position":"right","display":"always","offset":12,"onmobile":false},
     back2top: {"enable":true,"sidebar":false,"scrollpercent":true},
     save_scroll: false,
-    copycode: {"enable":false,"show_result":false,"style":null},
+    copycode: {"enable":true,"show_result":true,"style":"default"},
     fancybox: true,
     mediumzoom: false,
     lazyload: false,
@@ -58,17 +58,18 @@
   };
 </script>
 
-  <meta name="description" content="记录日常">
+  <meta name="description" content="搭建HEXO的几个主要步骤：前提： 安装Git 安装Nodejs（自带NPM工具）  安装HEXO-CLI12345npm install hexo-cli -g #安装hexo-clihexo init blog #新建blog文件夹，并通过hexo配置所需环境cd blog	#进如该文件夹npm install #安装hexo的依赖包hexo server #启动生成的本地博客网站">
+<meta name="keywords" content="code">
 <meta property="og:type" content="article">
 <meta property="og:title" content="HEXO的安装">
 <meta property="og:url" content="http://kevin-okay.github.io/2019/08/11/HEXO的安装/index.html">
 <meta property="og:site_name" content="浪里个浪的博客">
-<meta property="og:description" content="记录日常">
+<meta property="og:description" content="搭建HEXO的几个主要步骤：前提： 安装Git 安装Nodejs（自带NPM工具）  安装HEXO-CLI12345npm install hexo-cli -g #安装hexo-clihexo init blog #新建blog文件夹，并通过hexo配置所需环境cd blog	#进如该文件夹npm install #安装hexo的依赖包hexo server #启动生成的本地博客网站">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-08-11T00:20:42.042Z">
+<meta property="og:updated_time" content="2019-08-11T09:10:45.050Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="HEXO的安装">
-<meta name="twitter:description" content="记录日常">
+<meta name="twitter:description" content="搭建HEXO的几个主要步骤：前提： 安装Git 安装Nodejs（自带NPM工具）  安装HEXO-CLI12345npm install hexo-cli -g #安装hexo-clihexo init blog #新建blog文件夹，并通过hexo配置所需环境cd blog	#进如该文件夹npm install #安装hexo的依赖包hexo server #启动生成的本地博客网站">
   <link rel="alternate" href="/atom.xml" title="浪里个浪的博客" type="application/atom+xml">
   <link rel="canonical" href="http://kevin-okay.github.io/2019/08/11/HEXO的安装/">
 
@@ -216,17 +217,6 @@
     <a href="/archives/" rel="section"><i class="menu-item-icon fa fa-fw fa-archive"></i> <br>归档</a>
 
   </li>
-      
-      
-      
-        
-        <li class="menu-item menu-item-schedule">
-      
-    
-
-    <a href="/schedule/" rel="section"><i class="menu-item-icon fa fa-fw fa-calendar"></i> <br>日程表</a>
-
-  </li>
       <li class="menu-item menu-item-search">
         <a href="javascript:;" class="popup-trigger">
         
@@ -310,8 +300,12 @@
                 
               
 
-              <time title="创建时间：2019-08-11 08:20:42" itemprop="dateCreated datePublished" datetime="2019-08-11T08:20:42+08:00">2019-08-11</time>
+              <time title="创建时间：2019-08-11 08:20:42 / 修改时间：17:10:45" itemprop="dateCreated datePublished" datetime="2019-08-11T08:20:42+08:00">2019-08-11</time>
             </span>
+          
+            
+
+            
           
 
           
@@ -321,27 +315,6 @@
               </span>
               <span class="post-meta-item-text">阅读次数：</span>
               <span class="busuanzi-value" id="busuanzi_value_page_pv"></span>
-            </span>
-          
-          <br>
-            <span class="post-meta-item" title="本文字数">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-file-word-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">本文字数：</span>
-              
-              <span>undefined</span>
-            </span>
-          
-            <span class="post-meta-item" title="阅读时长">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-clock-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">阅读时长 &asymp;</span>
-              
-              <span>NaN:aN</span>
             </span>
           
 
@@ -354,7 +327,13 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        
+        <h1 id="搭建HEXO的几个主要步骤："><a href="#搭建HEXO的几个主要步骤：" class="headerlink" title="搭建HEXO的几个主要步骤："></a>搭建HEXO的几个主要步骤：</h1><h3 id="前提："><a href="#前提：" class="headerlink" title="前提："></a>前提：</h3><ol>
+<li>安装Git</li>
+<li>安装Nodejs（自带NPM工具）</li>
+</ol>
+<h3 id="安装HEXO-CLI"><a href="#安装HEXO-CLI" class="headerlink" title="安装HEXO-CLI"></a>安装HEXO-CLI</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g #安装hexo-cli</span><br><span class="line">hexo init blog #新建blog文件夹，并通过hexo配置所需环境</span><br><span class="line">cd blog	#进如该文件夹</span><br><span class="line">npm install #安装hexo的依赖包</span><br><span class="line">hexo server #启动生成的本地博客网站</span><br></pre></td></tr></table></figure>
+
+
     </div>
 
     
@@ -383,6 +362,15 @@
       
 
       <footer class="post-footer">
+          
+            
+          
+          <div class="post-tags">
+            
+              <a href="/tags/code/" rel="tag"><i class="fa fa-tag"></i>code</a>
+            
+          </div>
+        
 
         
 
@@ -433,8 +421,17 @@
 
   <aside id="sidebar" class="sidebar">
     <div class="sidebar-inner">
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
 
-      <div class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <div class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
 
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -476,7 +473,9 @@
         
           
         
-        <span class="site-state-item-count">6</span>
+          
+        
+        <span class="site-state-item-count">7</span>
         <span class="site-state-item-name">标签</span>
         </a>
       </div>
@@ -563,6 +562,23 @@
 
         </div>
       </div>
+      <!--noindex-->
+        <div class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+            
+            
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#搭建HEXO的几个主要步骤："><span class="nav-number">1.</span> <span class="nav-text">搭建HEXO的几个主要步骤：</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#前提："><span class="nav-number">1.0.1.</span> <span class="nav-text">前提：</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#安装HEXO-CLI"><span class="nav-number">1.0.2.</span> <span class="nav-text">安装HEXO-CLI</span></a></li></ol></li></ol></li></ol></div>
+            
+
+          </div>
+        </div>
+      <!--/noindex-->
+      
 
     </div>
   </aside>
@@ -579,23 +595,13 @@
     <i class="fa fa-user"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">浪里个浪</span>
-    <span class="post-meta-divider">|</span>
-    <span class="post-meta-item-icon">
-      <i class="fa fa-area-chart"></i>
-    </span>
-    <span title="站点总字数">NaNm</span>
-    <span class="post-meta-divider">|</span>
-    <span class="post-meta-item-icon">
-      <i class="fa fa-coffee"></i>
-    </span>
-    <span title="站点阅读时长">NaN:aN</span>
 </div>
   <div class="powered-by">由 <a href="https://hexo.io" class="theme-link" rel="noopener" target="_blank">Hexo</a> 强力驱动</div>
 
 
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count">博客全站共367字</span>
+  <span class="post-count">全站共545字</span>
 </div>
         
 <div class="busuanzi-count">
