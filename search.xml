@@ -9,9 +9,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[HEXO的安装]]></title>
+    <title><![CDATA[HEXO]]></title>
     <url>%2F2019%2F08%2F11%2FHEXO%E7%9A%84%E5%AE%89%E8%A3%85%2F</url>
-    <content type="text"><![CDATA[搭建HEXO的几个主要步骤：前提： 安装Git 安装Nodejs（自带NPM工具） 安装HEXO-CLI12345npm install hexo-cli -g #安装hexo-clihexo init blog #新建blog文件夹，并通过hexo配置所需环境cd blog #进如该文件夹npm install #安装hexo的依赖包hexo server #启动生成的本地博客网站]]></content>
+    <content type="text"><![CDATA[搭建HEXO个人博客框架及本地的安装及运行：认识HEXOHexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。 前提： 安装Git 安装Nodejs（自带NPM工具） 安装HEXO-CLI12345678#搭建hexo博客框架npm install hexo-cli -g #本地的安装及运行hexo init blog #新建blog文件夹，并通过hexo配置所需环境cd blog #进如该文件夹npm install #安装hexo的依赖包hexo server #启动生成的本地博客网站]]></content>
       <tags>
         <tag>code</tag>
       </tags>
