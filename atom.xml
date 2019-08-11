@@ -37,45 +37,6 @@
   </entry>
   
   <entry>
-    <title>多个图片的组合</title>
-    <link href="http://kevin-okay.github.io/2019/08/10/%E5%A4%9A%E4%B8%AA%E5%9B%BE%E7%89%87%E7%9A%84%E7%BB%84%E5%90%88/"/>
-    <id>http://kevin-okay.github.io/2019/08/10/多个图片的组合/</id>
-    <published>2019-08-10T09:48:00.000Z</published>
-    <updated>2019-08-10T10:03:55.701Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="hexo" scheme="http://kevin-okay.github.io/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>code1</title>
-    <link href="http://kevin-okay.github.io/2019/08/09/code1/"/>
-    <id>http://kevin-okay.github.io/2019/08/09/code1/</id>
-    <published>2019-08-09T11:49:37.000Z</published>
-    <updated>2019-08-09T11:51:25.410Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="代码如下"><a href="#代码如下" class="headerlink" title="代码如下"></a>代码如下</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g -d</span><br><span class="line">INFO  Start processing</span><br><span class="line">FATAL Something&apos;s wrong. Maybe you can find the solution here: http://hexo.io/docs/troubleshooting.html</span><br><span class="line">Template render error: (unknown path) [Line 7, Column 23]</span><br><span class="line">  Error: Unable to call `the return value of (posts[&quot;first&quot;])[&quot;updated&quot;][&quot;toISOString&quot;]`, which is undefined or falsey</span><br><span class="line">    at Object.exports.prettifyError (D:\hexo\node_modules\nunjucks\src\lib.js:34:15)</span><br><span class="line">    at D:\hexo\node_modules\nunjucks\src\environment.js:486:31</span><br><span class="line">    at new_cls.root [as rootRenderFunc] (eval at _compile (D:\hexo\node_modules\nunjucks\src\environment.js:565:24), &lt;anonymous&gt;:161:3)</span><br><span class="line">    at new_cls.render (D:\hexo\node_modules\nunjucks\src\environment.js:479:15)</span><br><span class="line">    at Hexo.module.exports (D:\hexo\node_modules\hexo-generator-feed\lib\generator.js:28:22)</span><br><span class="line">    at Hexo.tryCatcher (D:\hexo\node_modules\bluebird\js\release\util.js:16:23)</span><br><span class="line">    at Hexo.&lt;anonymous&gt; (D:\hexo\node_modules\bluebird\js\release\method.js:15:34)</span><br><span class="line">    at D:\hexo\node_modules\hexo\lib\hexo\index.js:337:24</span><br><span class="line">    at tryCatcher (D:\hexo\node_modules\bluebird\js\release\util.js:16:23)</span><br><span class="line">    at MappingPromiseArray._promiseFulfilled (D:\hexo\node_modules\bluebird\js\release\map.js:61:38)</span><br><span class="line">    at MappingPromiseArray.PromiseArray._iterate (D:\hexo\node_modules\bluebird\js\release\promise_array.js:114:31)</span><br><span class="line">    at MappingPromiseArray.init (D:\hexo\node_modules\bluebird\js\release\promise_array.js:78:10)</span><br><span class="line">    at MappingPromiseArray._asyncInit (D:\hexo\node_modules\bluebird\js\release\map.js:30:10)</span><br><span class="line">    at Async._drainQueue (D:\hexo\node_modules\bluebird\js\release\async.js:138:12)</span><br><span class="line">    at Async._drainQueues (D:\hexo\node_modules\bluebird\js\release\async.js:143:10)</span><br><span class="line">    at Immediate.Async.drainQueues (D:\hexo\node_modules\bluebird\js\release\async.js:17:14)</span><br><span class="line">    at runCallback (timers.js:651:20)</span><br><span class="line">    at tryOnImmediate (timers.js:624:5)</span><br><span class="line">    at processImmediate [as _immediateCallback] (timers.js:596:5)</span><br><span class="line">FATAL (unknown path) [Line 7, Column 23]</span><br><span class="line">  Error: Unable to call `the return value of (posts[&quot;first&quot;])[&quot;updated&quot;][&quot;toISOString&quot;]`, which is undefined or falsey</span><br><span class="line">Template render error: (unknown path) [Line 7, Column 23]</span><br><span class="line">  Error: Unable to call `the return value of (posts[&quot;first&quot;])[&quot;updated&quot;][&quot;toISOString&quot;]`, which is undefined or falsey</span><br><span class="line">    at Object.exports.prettifyError (D:\hexo\node_modules\nunjucks\src\lib.js:34:15)</span><br><span class="line">    at D:\hexo\node_modules\nunjucks\src\environment.js:486:31</span><br><span class="line">    at new_cls.root [as rootRenderFunc] (eval at _compile (D:\hexo\node_modules\nunjucks\src\environment.js:565:24), &lt;anonymous&gt;:161:3)</span><br><span class="line">    at new_cls.render (D:\hexo\node_modules\nunjucks\src\environment.js:479:15)</span><br><span class="line">    at Hexo.module.exports (D:\hexo\node_modules\hexo-generator-feed\lib\generator.js:28:22)</span><br><span class="line">    at Hexo.tryCatcher (D:\hexo\node_modules\bluebird\js\release\util.js:16:23)</span><br><span class="line">    at Hexo.&lt;anonymous&gt; (D:\hexo\node_modules\bluebird\js\release\method.js:15:34)</span><br><span class="line">    at D:\hexo\node_modules\hexo\lib\hexo\index.js:337:24</span><br><span class="line">    at tryCatcher (D:\hexo\node_modules\bluebird\js\release\util.js:16:23)</span><br><span class="line">    at MappingPromiseArray._promiseFulfilled (D:\hexo\node_modules\bluebird\js\release\map.js:61:38)</span><br><span class="line">    at MappingPromiseArray.PromiseArray._iterate (D:\hexo\node_modules\bluebird\js\release\promise_array.js:114:31)</span><br><span class="line">    at MappingPromiseArray.init (D:\hexo\node_modules\bluebird\js\release\promise_array.js:78:10)</span><br><span class="line">    at MappingPromiseArray._asyncInit (D:\hexo\node_modules\bluebird\js\release\map.js:30:10)</span><br><span class="line">    at Async._drainQueue (D:\hexo\node_modules\bluebird\js\release\async.js:138:12)</span><br><span class="line">    at Async._drainQueues (D:\hexo\node_modules\bluebird\js\release\async.js:143:10)</span><br><span class="line">    at Immediate.Async.drainQueues (D:\hexo\node_modules\bluebird\js\release\async.js:17:14)</span><br><span class="line">    at runCallback (timers.js:651:20)</span><br><span class="line">    at tryOnImmediate (timers.js:624:5)</span><br><span class="line">    at processImmediate [as _immediateCallback] (timers.js:596:5)</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h3 id=&quot;代码如下&quot;&gt;&lt;a href=&quot;#代码如下&quot; class=&quot;headerlink&quot; title=&quot;代码如下&quot;&gt;&lt;/a&gt;代码如下&lt;/h3&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pr
-      
-    
-    </summary>
-    
-    
-      <category term="code" scheme="http://kevin-okay.github.io/tags/code/"/>
-    
-  </entry>
-  
-  <entry>
     <title>几个图片</title>
     <link href="http://kevin-okay.github.io/2019/08/09/%E5%87%A0%E4%B8%AA%E5%9B%BE%E7%89%87/"/>
     <id>http://kevin-okay.github.io/2019/08/09/几个图片/</id>
@@ -117,32 +78,6 @@
     
     
       <category term="图片" scheme="http://kevin-okay.github.io/tags/%E5%9B%BE%E7%89%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>人的痛苦</title>
-    <link href="http://kevin-okay.github.io/2019/08/08/%E4%BA%BA%E7%9A%84%E7%97%9B%E8%8B%A6/"/>
-    <id>http://kevin-okay.github.io/2019/08/08/人的痛苦/</id>
-    <published>2019-08-08T08:54:21.000Z</published>
-    <updated>2019-08-08T09:07:22.857Z</updated>
-    
-    <content type="html"><![CDATA[<!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 --><!-- 其中 class="blockquote-center" 是必须的 --><blockquote class="blockquote-center">blah blah blah</blockquote><!-- 标签 方式，要求版本在0.4.5或以上 --><blockquote class="blockquote-center"><p>blah blah blah</p></blockquote><!-- 标签别名 --><blockquote class="blockquote-center"><p>blah blah blah </p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 --&gt;
-&lt;!-- 其中 class=&quot;blockquote-center&quot; 是必须的 --&gt;
-
-&lt;blockquote class=&quot;blockquote-center&quot;&gt;blah blah bla
-      
-    
-    </summary>
-    
-    
-      <category term="散文" scheme="http://kevin-okay.github.io/tags/%E6%95%A3%E6%96%87/"/>
     
   </entry>
   
