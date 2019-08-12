@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[技术圈的一些简语，自己领悟]]></title>
+    <url>%2F2019%2F08%2F12%2F%E6%8A%80%E6%9C%AF%E5%9C%88%E7%9A%84%E4%B8%80%E4%BA%9B%E7%AE%80%E8%AF%AD%EF%BC%8C%E8%87%AA%E5%B7%B1%E9%A2%86%E6%82%9F%2F</url>
+    <content type="text"><![CDATA[最后说点题外话，关于求助这件事，其实很多时候看源代码或者帮助文档能解决我们差不多很多问题，如果实在没有，一般你遇到的问题别人可能也遇到过，善用搜索引擎能解决所有问题，之前看到一个说法：普通程序员 + google = 超级程序员。所以在平时要养成一些习惯，仔细阅读帮助文档，阅读源码，善用搜索引擎，再实在没辙了再上论坛提问。 下面是经常见到的在一些问答网站回答的一些缩写，我觉得很有趣也很有用，在此将其列举出来： RTFSC(Read the fucking source code) RTFM(Read the fucking manual) UTFH (“Use The Fucking Help”) STFW (“Search The Fucking Web”) STFG (“Search The Fucking Google” or “Search The Fantastic Google”) GIYF (“Google Is Your Friend”) JFGI (“Just Fucking Google It”) UTSL (“Use The Source Luke”—alternately, RTFS) RTFA (“Read The Fucking Article”—common on news forums such as Fark.com[3] and Slashdot) RTFE (“Read The Fucking Email”) RTFC (“Read The Fucking Code,” or “Reboot The Fucking Computer”) RTFQ (“Read The Fucking Question”) LMGTFY (“Let Me Google That For You”) WIDGI (“When In Doubt Google It” - Also occasionally ‘WIDGIT’) FIOTI (“Find It On The Internet”) 通常，给出这些答案的人已经通过这些办法找到了解决问题的关键，正在一边看一边敲键盘。这些回复意味着他认为：第一，你要的信息很容易找到。第二，自已找 要比别人喂到嘴里能学得更多。你不应该觉得这样就被冒犯了，按黑客的标准，他没有不理你就是在向你表示某种尊敬，你反而应该感谢他热切地想帮助你。]]></content>
+      <categories>
+        <category>学习</category>
+        <category>能力</category>
+      </categories>
+      <tags>
+        <tag>code</tag>
+        <tag>简语</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[网站的搭建]]></title>
     <url>%2F2019%2F08%2F12%2F%E7%BD%91%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA%2F</url>
     <content type="text"><![CDATA[这是一篇测试文章，仅此！Nodejs Git Npm]]></content>
