@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevin-okay.github.io/"/>
-  <updated>2019-08-11T09:42:25.402Z</updated>
+  <updated>2019-08-12T07:07:02.947Z</updated>
   <id>http://kevin-okay.github.io/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网站的搭建</title>
+    <link href="http://kevin-okay.github.io/2019/08/12/%E7%BD%91%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/"/>
+    <id>http://kevin-okay.github.io/2019/08/12/网站的搭建/</id>
+    <published>2019-08-12T06:43:12.000Z</published>
+    <updated>2019-08-12T07:07:02.947Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="这是一篇测试文章，仅此！"><a href="#这是一篇测试文章，仅此！" class="headerlink" title="这是一篇测试文章，仅此！"></a>这是一篇测试文章，仅此！</h3><p>Nodejs</p><p>Git</p><p>Npm</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;这是一篇测试文章，仅此！&quot;&gt;&lt;a href=&quot;#这是一篇测试文章，仅此！&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试文章，仅此！&quot;&gt;&lt;/a&gt;这是一篇测试文章，仅此！&lt;/h3&gt;&lt;p&gt;Nodejs&lt;/p&gt;
+&lt;p&gt;Git&lt;/p&gt;
+&lt;p&gt;Npm&lt;/
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://kevin-okay.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="编程" scheme="http://kevin-okay.github.io/categories/%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="html" scheme="http://kevin-okay.github.io/categories/%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B/html/"/>
+    
+    
+      <category term="java" scheme="http://kevin-okay.github.io/tags/java/"/>
+    
+      <category term="c#" scheme="http://kevin-okay.github.io/tags/c/"/>
+    
+  </entry>
   
   <entry>
     <title>NEXT主题的配置</title>
@@ -78,9 +111,9 @@
     <link href="http://kevin-okay.github.io/2019/08/10/%E7%95%85%E6%83%B3%E6%B8%B8%E6%88%8F/"/>
     <id>http://kevin-okay.github.io/2019/08/10/畅想游戏/</id>
     <published>2019-08-10T10:33:00.000Z</published>
-    <updated>2019-08-10T10:36:47.579Z</updated>
+    <updated>2019-08-12T05:41:13.944Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://ww1.sinaimg.cn/large/77fca518ly1g5urh75la9j20dw09pwfi.jpg" alt></p><a id="more"></a><h3 id="以下内容，仅供娱乐！！"><a href="#以下内容，仅供娱乐！！" class="headerlink" title="以下内容，仅供娱乐！！"></a>以下内容，仅供娱乐！！</h3>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://ww1.sinaimg.cn/large/77fca518ly1g5urh75la9j20dw09pwfi.jpg" alt></p><a id="more"></a><h3 id="以下内容，仅供娱乐！！"><a href="#以下内容，仅供娱乐！！" class="headerlink" title="以下内容，仅供娱乐！！"></a>以下内容，仅供娱乐！！</h3><blockquote><p>这是一条引用！</p></blockquote><div class="note info">            <p>现在该说点什么呢</p>          </div><blockquote class="blockquote-center"><p>鲁迅说：我不用Hexo写博客 </p></blockquote>]]></content>
     
     <summary type="html">
     
