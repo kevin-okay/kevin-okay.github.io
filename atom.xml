@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevin-okay.github.io/"/>
-  <updated>2019-08-12T08:19:17.743Z</updated>
+  <updated>2019-08-12T10:43:50.909Z</updated>
   <id>http://kevin-okay.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>插入图片注释</title>
+    <link href="http://kevin-okay.github.io/2019/08/12/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E6%B3%A8%E9%87%8A/"/>
+    <id>http://kevin-okay.github.io/2019/08/12/插入图片注释/</id>
+    <published>2019-08-12T10:28:56.000Z</published>
+    <updated>2019-08-12T10:43:50.909Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="以下："><a href="#以下：" class="headerlink" title="以下："></a>以下：</h5>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h5 id=&quot;以下：&quot;&gt;&lt;a href=&quot;#以下：&quot; class=&quot;headerlink&quot; title=&quot;以下：&quot;&gt;&lt;/a&gt;以下：&lt;/h5&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="demo" scheme="http://kevin-okay.github.io/tags/demo/"/>
+    
+      <category term="学习" scheme="http://kevin-okay.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo的next主题添加分享功能</title>
@@ -185,18 +210,13 @@
     <link href="http://kevin-okay.github.io/2019/08/09/%E5%87%A0%E4%B8%AA%E5%9B%BE%E7%89%87/"/>
     <id>http://kevin-okay.github.io/2019/08/09/几个图片/</id>
     <published>2019-08-09T01:58:49.000Z</published>
-    <updated>2019-08-10T10:39:56.423Z</updated>
+    <updated>2019-08-12T10:54:25.049Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a><h3 id="讯飞有声"><a href="#讯飞有声" class="headerlink" title="讯飞有声"></a>讯飞有声</h3><p>如果说过去的十年是“读图时代”，那么可以毫不夸张地说，未来的十年将是前所未有的“有声时代”。从苹果公司的智能语音助手Siri多次升级改造和技术革新，到锤子科技发布号称“重新定义未来”的TNT语音工作站，再次证明在人工智能的全力助攻下，声音将是下一代科技革命的主宰。</p><p>科大讯飞是智能语音及人工智能上市公司和中国人工智能产业的领军企业，在2017年7月推出一款可将任意文本秒变人声的黑科技产品“讯飞有声”。上线一年多以来，已实现全面升级，真正做到内容优质化，功能专业化，操作便捷化，体验人性化。讯飞有声特有的智能语音合成功能依托于科大讯飞十九年的语音合成技术沉淀，支持多语种多方言多角色朗读，人声音质可媲美真人主播发音。</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="讯飞有声"><a href="#讯飞有声" class="headerlink" title="讯飞有声"></a>讯飞有声</h3><p>如果说过去的十年是“读图时代”，那么可以毫不夸张地说，未来的十年将是前所未有的“有声时代”。从苹果公司的智能语音助手Siri多次升级改造和技术革新，到锤子科技发布号称“重新定义未来”的TNT语音工作站，再次证明在人工智能的全力助攻下，声音将是下一代科技革命的主宰。</p><a id="more"></a><p>科大讯飞是智能语音及人工智能上市公司和中国人工智能产业的领军企业，在2017年7月推出一款可将任意文本秒变人声的黑科技产品“讯飞有声”。上线一年多以来，已实现全面升级，真正做到内容优质化，功能专业化，操作便捷化，体验人性化。讯飞有声特有的智能语音合成功能依托于科大讯飞十九年的语音合成技术沉淀，支持多语种多方言多角色朗读，人声音质可媲美真人主播发音。</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-
-&lt;h3 id=&quot;讯飞有声&quot;&gt;&lt;a href=&quot;#讯飞有声&quot; class=&quot;headerlink&quot; title=&quot;讯飞有声&quot;&gt;&lt;/a&gt;讯飞有声&lt;/h3&gt;&lt;p&gt;如果说过去的十年是“读图时代”，那么可以毫不夸张地说，未来的十年将是前所未有的“有声时
-      
+      &lt;h3 id=&quot;讯飞有声&quot;&gt;&lt;a href=&quot;#讯飞有声&quot; class=&quot;headerlink&quot; title=&quot;讯飞有声&quot;&gt;&lt;/a&gt;讯飞有声&lt;/h3&gt;&lt;p&gt;如果说过去的十年是“读图时代”，那么可以毫不夸张地说，未来的十年将是前所未有的“有声时代”。从苹果公司的智能语音助手Siri多次升级改造和技术革新，到锤子科技发布号称“重新定义未来”的TNT语音工作站，再次证明在人工智能的全力助攻下，声音将是下一代科技革命的主宰。&lt;/p&gt;
     
     </summary>
     
@@ -210,9 +230,9 @@
     <link href="http://kevin-okay.github.io/2019/08/09/a-picture/"/>
     <id>http://kevin-okay.github.io/2019/08/09/a-picture/</id>
     <published>2019-08-09T00:51:46.000Z</published>
-    <updated>2019-08-09T01:09:04.253Z</updated>
+    <updated>2019-08-12T10:51:04.275Z</updated>
     
-    <content type="html"><![CDATA[<h5 id="就想发个图片试试！！"><a href="#就想发个图片试试！！" class="headerlink" title="就想发个图片试试！！"></a>就想发个图片试试！！</h5><a id="more"></a><p><img src="http://wx1.sinaimg.cn/mw690/77fca518ly1g5t5072vemj20u01hch0h.jpg" alt="壁纸图片"></p>]]></content>
+    <content type="html"><![CDATA[<h5 id="就想发个图片试试！！"><a href="#就想发个图片试试！！" class="headerlink" title="就想发个图片试试！！"></a>就想发个图片试试！！</h5><a id="more"></a><p><img src="http://wx1.sinaimg.cn/mw690/77fca518ly1g5t5072vemj20u01hch0h.jpg" alt="壁纸图片"></p><img style="float: right;" src="http://wx1.sinaimg.cn/mw690/77fca518ly1g5t5072vemj20u01hch0h.jpg">]]></content>
     
     <summary type="html">
     
