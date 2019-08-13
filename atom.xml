@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>浪里个浪的博客</title>
   
-  
+  <subtitle>世界那么大，我想去看看！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevin-okay.github.io/"/>
