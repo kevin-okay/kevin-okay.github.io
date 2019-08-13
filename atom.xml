@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevin-okay.github.io/"/>
-  <updated>2019-08-12T10:43:50.909Z</updated>
+  <updated>2019-08-13T09:14:36.600Z</updated>
   <id>http://kevin-okay.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo简介</title>
+    <link href="http://kevin-okay.github.io/2019/08/13/hexo%E7%AE%80%E4%BB%8B/"/>
+    <id>http://kevin-okay.github.io/2019/08/13/hexo简介/</id>
+    <published>2019-08-13T08:15:29.000Z</published>
+    <updated>2019-08-13T09:14:36.600Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hexo 是在 Node.js 框架下产生的一个静态博客框架项目，利用 Node.js 可以完成从 Markdown 到静态网页的转换，之后托管到 GitHub 上可以形成个人博客，是搭建博客网站的首选框架。</p><blockquote><p>静态博客：是指没有后端数据库的博客，所有文章都是以文件的形式存储，是一种纯前端的博客框架。<br>Hexo 的创建者是台湾人，对中文的支持很友好。</p></blockquote><h3 id="安装-hexo-后源码目录结构"><a href="#安装-hexo-后源码目录结构" class="headerlink" title="安装 hexo 后源码目录结构"></a>安装 hexo 后源码目录结构</h3><p><img src="http://ww1.sinaimg.cn/large/77fca518ly1g5y5pk71fhj208q0aitlc.jpg" alt></p><h5 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h5><p>.deploy_git：执行 hexo d 命令后部署到 GitHub/Gitlab 上的内容都在这个目录中。<br>node_modules: 存放安装的模块<br>scaffolds: 存放模板文件，有 draft.md, page.md, post.md 三种<br>source：站点资源目录，写的文章，素材等都放在这个目录下，包括以后你需要新建的菜单项如 about 页、tags 页、categories 页等也是放在这里。<br>themes：主题文件目录。<br>_config.yml：hexo 博客<strong>全局配置文件</strong>。</p><h6 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h6><p>执行 hexo g 命令后，在博客目录会生成 public 文件夹，md文件转化的静态网页内容都在这个目录中，也就是打开博客后所显示的网页。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hexo 是在 Node.js 框架下产生的一个静态博客框架项目，利用 Node.js 可以完成从 Markdown 到静态网页的转换，之后托管到 GitHub 上可以形成个人博客，是搭建博客网站的首选框架。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;静态博客：是指没有后端数
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://kevin-okay.github.io/tags/hexo/"/>
+    
+      <category term="网站搭建" scheme="http://kevin-okay.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>插入图片注释</title>
