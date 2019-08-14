@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Hexo搭建教程]]></title>
+    <url>%2F2019%2F08%2F14%2FHexo%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B%2F</url>
+    <content type="text"><![CDATA[废话少说，直接进入主题 hexo的初步搭建以及部署到github的pages页面上 安装Git git：Git 是目前世界上最先进的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理 Github创建各人仓库，借助Git生成SSH并和本地的Git绑定（网上查找教程） 仓库名：用户名.github.io格式 安装Nodejs（集成了NPM管理工具） 选择LTS版安装 安装Hexo及搭建本地个人博客网站 部署博客到Github上 安装 deploy-git: npm install hexo-deployer-git --save 打开站点配置文件 _config.yml，翻到最后，安装如下格式添加：deploy:type: gitrepo: https://github.com/YourgithubName/YourgithubName.github.io.gitbranch: master 最后：hexo cleanhexo ghexo d即可在http://yourname.github.io看到博客了 发布文章 hexo n “文件名称” 再次部署即可看到自己发布的文章了 hexo g 生成静态Htmlhexo d 部署Html网页到github的pages页面上 扩展：在文件根目录下的_config.yml，就是整个 hexo 框架的配置文件了，可以在里面修改大部分的配置。]]></content>
+      <categories>
+        <category>技术</category>
+        <category>webpages</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>nodejs</tag>
+        <tag>git</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[hexo简介]]></title>
     <url>%2F2019%2F08%2F13%2Fhexo%E7%AE%80%E4%BB%8B%2F</url>
     <content type="text"><![CDATA[Hexo 是在 Node.js 框架下产生的一个静态博客框架项目，利用 Node.js 可以完成从 Markdown 到静态网页的转换，之后托管到 GitHub 上可以形成个人博客，是搭建博客网站的首选框架。 静态博客：是指没有后端数据库的博客，所有文章都是以文件的形式存储，是一种纯前端的博客框架。Hexo 的创建者是中国台湾人，对中文的支持很友好。 安装 hexo 后源码目录结构 说明.deploy_git：执行 hexo d 命令后部署到 GitHub/Gitlab 上的内容都在这个目录中。node_modules: 存放安装的模块scaffolds: 存放模板文件，有 draft.md, page.md, post.md 三种source：站点资源目录，写的文章，素材等都放在这个目录下，包括以后你需要新建的菜单项如 about 页、tags 页、categories 页等也是放在这里。themes：主题文件目录。_config.yml：hexo 博客全局配置文件。 注意执行 hexo g 命令后，在博客目录会生成 public 文件夹，md文件转化的静态网页内容都在这个目录中，也就是打开博客后所显示的网页。]]></content>

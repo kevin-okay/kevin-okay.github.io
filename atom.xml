@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevin-okay.github.io/"/>
-  <updated>2019-08-14T04:35:34.384Z</updated>
+  <updated>2019-08-14T09:51:17.433Z</updated>
   <id>http://kevin-okay.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo搭建教程</title>
+    <link href="http://kevin-okay.github.io/2019/08/14/Hexo%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
+    <id>http://kevin-okay.github.io/2019/08/14/Hexo搭建教程/</id>
+    <published>2019-08-14T09:02:10.000Z</published>
+    <updated>2019-08-14T09:51:17.433Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>废话少说，直接进入主题</strong></p><h3 id="hexo的初步搭建以及部署到github的pages页面上"><a href="#hexo的初步搭建以及部署到github的pages页面上" class="headerlink" title="hexo的初步搭建以及部署到github的pages页面上"></a>hexo的初步搭建以及部署到github的pages页面上</h3><ul><li>安装Git<blockquote><p>git：Git 是目前世界上最先进的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理</p></blockquote></li><li>Github创建各人仓库，借助Git生成SSH并和本地的Git绑定（网上查找教程）<blockquote><p>仓库名：用户名.github.io格式</p></blockquote></li><li>安装Nodejs（集成了NPM管理工具）<blockquote><p>选择LTS版安装</p></blockquote></li><li>安装Hexo及搭建本地个人博客网站<br><img src="http://ww1.sinaimg.cn/large/77fca518ly1g5zbv3tm8dj20lj08ztzn.jpg" alt="官网说明"></li><li>部署博客到Github上<blockquote><ol><li>安装 deploy-git: <code>npm install hexo-deployer-git --save</code></li><li>打开站点配置文件 _config.yml，翻到最后，安装如下格式添加：<br>deploy:<br>type: git<br>repo: <a href="https://github.com/YourgithubName/YourgithubName.github.io.git" target="_blank" rel="noopener">https://github.com/YourgithubName/YourgithubName.github.io.git</a><br>branch: master</li><li>最后：<br>hexo clean<br>hexo g<br>hexo d<br>即可在<a href="http://yourname.github.io看到博客了" target="_blank" rel="noopener">http://yourname.github.io看到博客了</a></li></ol></blockquote></li><li>发布文章<blockquote><p>hexo n “文件名称”</p></blockquote></li><li>再次部署即可看到自己发布的文章了<blockquote><p>hexo g 生成静态Html<br>hexo d 部署Html网页到github的pages页面上</p></blockquote></li></ul><p>扩展：<br>在文件根目录下的_config.yml，就是整个 hexo 框架的<a href="https://hexo.io/zh-cn/docs/configuration" target="_blank" rel="noopener">配置文件</a>了，可以在里面修改大部分的配置。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;废话少说，直接进入主题&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;hexo的初步搭建以及部署到github的pages页面上&quot;&gt;&lt;a href=&quot;#hexo的初步搭建以及部署到github的pages页面上&quot; class=&quot;headerlink&quot; title
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://kevin-okay.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="webpages" scheme="http://kevin-okay.github.io/categories/%E6%8A%80%E6%9C%AF/webpages/"/>
+    
+    
+      <category term="hexo" scheme="http://kevin-okay.github.io/tags/hexo/"/>
+    
+      <category term="nodejs" scheme="http://kevin-okay.github.io/tags/nodejs/"/>
+    
+      <category term="git" scheme="http://kevin-okay.github.io/tags/git/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo简介</title>
