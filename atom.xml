@@ -23,8 +23,6 @@
     <published>2019-08-14T09:02:10.000Z</published>
     <updated>2019-08-14T09:54:09.160Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>废话少说，直接进入主题</strong></p><a id="more"></a><h3 id="hexo的初步搭建以及部署到github的pages页面上"><a href="#hexo的初步搭建以及部署到github的pages页面上" class="headerlink" title="hexo的初步搭建以及部署到github的pages页面上"></a>hexo的初步搭建以及部署到github的pages页面上</h3><ul><li>安装Git<blockquote><p>git：Git 是目前世界上最先进的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理</p></blockquote></li><li>Github创建各人仓库，借助Git生成SSH并和本地的Git绑定（网上查找教程）<blockquote><p>仓库名：用户名.github.io格式</p></blockquote></li><li>安装Nodejs（集成了NPM管理工具）<blockquote><p>选择LTS版安装</p></blockquote></li><li>安装Hexo及搭建本地个人博客网站<br><img src="http://ww1.sinaimg.cn/large/77fca518ly1g5zbv3tm8dj20lj08ztzn.jpg" alt="官网说明"></li><li>部署博客到Github上<blockquote><ol><li>安装 deploy-git: <code>npm install hexo-deployer-git --save</code></li><li>打开站点配置文件 _config.yml，翻到最后，安装如下格式添加：<br>deploy:<br>type: git<br>repo: <a href="https://github.com/YourgithubName/YourgithubName.github.io.git" target="_blank" rel="noopener">https://github.com/YourgithubName/YourgithubName.github.io.git</a><br>branch: master</li><li>最后：<br>hexo clean<br>hexo g<br>hexo d<br>即可在<a href="http://yourname.github.io看到博客了" target="_blank" rel="noopener">http://yourname.github.io看到博客了</a></li></ol></blockquote></li><li>发布文章<blockquote><p>hexo n “文件名称”</p></blockquote></li><li>再次部署即可看到自己发布的文章了<blockquote><p>hexo g 生成静态Html<br>hexo d 部署Html网页到github的pages页面上</p></blockquote></li></ul><p>扩展：<br>在文件根目录下的_config.yml，就是整个 hexo 框架的<a href="https://hexo.io/zh-cn/docs/configuration" target="_blank" rel="noopener">配置文件</a>了，可以在里面修改大部分的配置。</p>]]></content>
-    
     <summary type="html">
     
       &lt;p&gt;&lt;strong&gt;废话少说，直接进入主题&lt;/strong&gt;&lt;/p&gt;
@@ -51,8 +49,6 @@
     <published>2019-08-13T08:15:29.000Z</published>
     <updated>2019-08-14T04:35:34.384Z</updated>
     
-    <content type="html"><![CDATA[<p>Hexo 是在 Node.js 框架下产生的一个静态博客框架项目，利用 Node.js 可以完成从 Markdown 到静态网页的转换，之后托管到 GitHub 上可以形成个人博客，是搭建博客网站的首选框架。</p><blockquote><p>静态博客：是指没有后端数据库的博客，所有文章都是以文件的形式存储，是一种纯前端的博客框架。<br>Hexo 的创建者是中国台湾人，对中文的支持很友好。</p></blockquote><a id="more"></a><h3 id="安装-hexo-后源码目录结构"><a href="#安装-hexo-后源码目录结构" class="headerlink" title="安装 hexo 后源码目录结构"></a>安装 hexo 后源码目录结构</h3><p><img src="http://ww1.sinaimg.cn/large/77fca518ly1g5y5pk71fhj208q0aitlc.jpg" alt></p><h5 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h5><p>.deploy_git：执行 hexo d 命令后部署到 GitHub/Gitlab 上的内容都在这个目录中。<br>node_modules: 存放安装的模块<br>scaffolds: 存放模板文件，有 draft.md, page.md, post.md 三种<br>source：站点资源目录，写的文章，素材等都放在这个目录下，包括以后你需要新建的菜单项如 about 页、tags 页、categories 页等也是放在这里。<br>themes：主题文件目录。<br>_config.yml：hexo 博客<strong>全局配置文件</strong>。</p><h6 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h6><p>执行 hexo g 命令后，在博客目录会生成 public 文件夹，md文件转化的静态网页内容都在这个目录中，也就是打开博客后所显示的网页。</p>]]></content>
-    
     <summary type="html">
     
       &lt;p&gt;Hexo 是在 Node.js 框架下产生的一个静态博客框架项目，利用 Node.js 可以完成从 Markdown 到静态网页的转换，之后托管到 GitHub 上可以形成个人博客，是搭建博客网站的首选框架。&lt;/p&gt;
@@ -76,13 +72,14 @@
     <published>2019-08-12T10:28:56.000Z</published>
     <updated>2019-08-14T00:27:20.717Z</updated>
     
-    <content type="html"><![CDATA[<h5 id="以下："><a href="#以下：" class="headerlink" title="以下："></a>以下：</h5><p><img src="http://ww1.sinaimg.cn/large/77fca518ly1g5ywgws98ij21rx166hc1.jpg" alt="世界风光"></p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;h5 id=&quot;以下：&quot;&gt;&lt;a href=&quot;#以下：&quot; class=&quot;headerlink&quot; title=&quot;以下：&quot;&gt;&lt;/a&gt;以下：&lt;/h5&gt;&lt;p&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/large/77fca518ly1g5ywgws98ij21rx16
+        
+        
+          &lt;h5 id=&quot;以下：&quot;&gt;&lt;a href=&quot;#以下：&quot; class=&quot;headerlink&quot; title=&quot;以下：&quot;&gt;&lt;/a&gt;以下：&lt;/h5&gt;&lt;p&gt;&lt;img
+        
       
     
     </summary>
@@ -101,13 +98,14 @@
     <published>2019-08-12T08:11:40.000Z</published>
     <updated>2019-08-12T08:14:51.975Z</updated>
     
-    <content type="html"><![CDATA[<p>最后说点题外话，关于求助这件事，其实很多时候看源代码或者帮助文档能解决我们差不多很多问题，如果实在没有，一般你遇到的问题别人可能也遇到过，善用搜索引擎能解决所有问题，之前看到一个说法：普通程序员 + google = 超级程序员。所以在平时要养成一些习惯，仔细阅读帮助文档，阅读源码，善用搜索引擎，再实在没辙了再上论坛提问。<br> 下面是经常见到的在一些问答网站回答的一些缩写，我觉得很有趣也很有用，在此将其列举出来：</p><ul><li>RTFSC(Read the fucking source code)</li><li>RTFM(Read the fucking manual)</li><li>UTFH (“Use The Fucking Help”)</li><li>STFW (“Search The Fucking Web”)</li><li>STFG (“Search The Fucking Google” or “Search The Fantastic Google”)</li><li>GIYF (“Google Is Your Friend”)</li><li>JFGI (“Just Fucking Google It”)</li><li>UTSL (“Use The Source Luke”—alternately, RTFS)</li><li>RTFA (“Read The Fucking Article”—common on news forums such as Fark.com[3] and Slashdot)</li><li>RTFE (“Read The Fucking Email”)</li><li>RTFC (“Read The Fucking Code,” or “Reboot The Fucking Computer”)</li><li>RTFQ (“Read The Fucking Question”)</li><li>LMGTFY (“Let Me Google That For You”)</li><li>WIDGI (“When In Doubt Google It” - Also occasionally ‘WIDGIT’)</li><li>FIOTI (“Find It On The Internet”)</li></ul><p>通常，给出这些答案的人已经通过这些办法找到了解决问题的关键，正在一边看一边敲键盘。这些回复意味着他认为：第一，你要的信息很容易找到。第二，自已找 要比别人喂到嘴里能学得更多。你不应该觉得这样就被冒犯了，按黑客的标准，他没有不理你就是在向你表示某种尊敬，你反而应该感谢他热切地想帮助你。</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;p&gt;最后说点题外话，关于求助这件事，其实很多时候看源代码或者帮助文档能解决我们差不多很多问题，如果实在没有，一般你遇到的问题别人可能也遇到过，善用搜索引擎能解决所有问题，之前看到一个说法：普通程序员 + google = 超级程序员。所以在平时要养成一些习惯，仔细阅读帮助文档，
+        
+        
+          &lt;p&gt;最后说点题外话，关于求助这件事，其实很多时候看源代码或者帮助文档能解决我们差不多很多问题，如果实在没有，一般你遇到的问题别人可能也遇到过，善用搜索引擎能解决所有问题，之前看到一个说法：普通程序员 + google =
+        
       
     
     </summary>
@@ -130,15 +128,14 @@
     <published>2019-08-12T06:43:12.000Z</published>
     <updated>2019-08-12T07:07:02.947Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="这是一篇测试文章，仅此！"><a href="#这是一篇测试文章，仅此！" class="headerlink" title="这是一篇测试文章，仅此！"></a>这是一篇测试文章，仅此！</h3><p>Nodejs</p><p>Git</p><p>Npm</p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;h3 id=&quot;这是一篇测试文章，仅此！&quot;&gt;&lt;a href=&quot;#这是一篇测试文章，仅此！&quot; class=&quot;headerlink&quot; title=&quot;这是一篇测试文章，仅此！&quot;&gt;&lt;/a&gt;这是一篇测试文章，仅此！&lt;/h3&gt;&lt;p&gt;Nodejs&lt;/p&gt;
-&lt;p&gt;Git&lt;/p&gt;
-&lt;p&gt;Npm&lt;/
+        
+        
+          &lt;h3 id=&quot;这是一篇测试文章，仅此！&quot;&gt;&lt;a href=&quot;#这是一篇测试文章，仅此！&quot; class=&quot;headerlink&quot;
+        
       
     
     </summary>
@@ -162,8 +159,6 @@
     <id>http://kevin-okay.github.io/2019/08/11/NEXT主题的配置/</id>
     <published>2019-08-11T00:21:21.000Z</published>
     <updated>2019-08-11T09:42:25.402Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="相关需要设置的参数"><a href="#相关需要设置的参数" class="headerlink" title="相关需要设置的参数"></a>相关需要设置的参数</h3><ol><li>侧边栏</li><li>头相</li><li>RSS</li><li>社交</li><li>友情链接</li><li>-与_的区分</li><li>：要敲个空格</li><li>插入图片（md文件）</li><li>菜单栏的显示与设置</li><li>页脚设置（建站时间、不蒜子、建站工具、网站主题、全站字数等）</li><li>Creative Commons 4.0 设置</li><li>主题方案</li><li>scrollpercent</li><li><a id="more"></a></li><li>文章字数统计</li><li>链接文字的颜色设置</li><li></li></ol>]]></content>
     
     <summary type="html">
     
@@ -197,13 +192,14 @@
     <published>2019-08-11T00:20:42.000Z</published>
     <updated>2019-08-11T22:56:02.282Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="搭建HEXO个人博客框架及本地的安装及运行："><a href="#搭建HEXO个人博客框架及本地的安装及运行：" class="headerlink" title="搭建HEXO个人博客框架及本地的安装及运行："></a>搭建HEXO个人博客框架及本地的安装及运行：</h1><h3 id="认识HEXO"><a href="#认识HEXO" class="headerlink" title="认识HEXO"></a>认识HEXO</h3><p>Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 <a href="http://daringfireball.net/projects/markdown/" target="_blank" rel="noopener">Markdown</a>（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p><h3 id="前提："><a href="#前提：" class="headerlink" title="前提："></a>前提：</h3><ol><li>安装Git</li><li>安装Nodejs（自带NPM工具）</li></ol><h3 id="安装HEXO-CLI"><a href="#安装HEXO-CLI" class="headerlink" title="安装HEXO-CLI"></a>安装HEXO-CLI</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">#搭建hexo博客框架</span><br><span class="line">npm install hexo-cli -g </span><br><span class="line"></span><br><span class="line">#本地的安装及运行</span><br><span class="line">hexo init blog #新建blog文件夹，并通过hexo配置所需环境</span><br><span class="line">cd blog#进如该文件夹</span><br><span class="line">npm install #安装hexo的依赖包</span><br><span class="line">hexo server #启动生成的本地博客网站</span><br></pre></td></tr></table></figure>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;搭建HEXO个人博客框架及本地的安装及运行：&quot;&gt;&lt;a href=&quot;#搭建HEXO个人博客框架及本地的安装及运行：&quot; class=&quot;headerlink&quot; title=&quot;搭建HEXO个人博客框架及本地的安装及运行：&quot;&gt;&lt;/a&gt;搭建HEXO个人博客框架及本地的安装及运
+        
+        
+          &lt;h1 id=&quot;搭建HEXO个人博客框架及本地的安装及运行：&quot;&gt;&lt;a href=&quot;#搭建HEXO个人博客框架及本地的安装及运行：&quot; class=&quot;headerlink&quot;
+        
       
     
     </summary>
@@ -219,8 +215,6 @@
     <id>http://kevin-okay.github.io/2019/08/10/畅想游戏/</id>
     <published>2019-08-10T10:33:00.000Z</published>
     <updated>2019-08-14T00:07:00.132Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://ww1.sinaimg.cn/large/77fca518ly1g5urh75la9j20dw09pwfi.jpg" alt="GTA0"></p><a id="more"></a><h3 id="以下内容，仅供娱乐！！"><a href="#以下内容，仅供娱乐！！" class="headerlink" title="以下内容，仅供娱乐！！"></a>以下内容，仅供娱乐！！</h3><blockquote><p>这是一条引用！</p></blockquote><div class="note info">            <p>现在该说点什么呢</p>          </div><blockquote class="blockquote-center"><p>鲁迅说：我不用Hexo写博客 </p></blockquote>]]></content>
     
     <summary type="html">
     
@@ -240,8 +234,6 @@
     <published>2019-08-09T01:58:49.000Z</published>
     <updated>2019-08-12T10:54:25.049Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="讯飞有声"><a href="#讯飞有声" class="headerlink" title="讯飞有声"></a>讯飞有声</h3><p>如果说过去的十年是“读图时代”，那么可以毫不夸张地说，未来的十年将是前所未有的“有声时代”。从苹果公司的智能语音助手Siri多次升级改造和技术革新，到锤子科技发布号称“重新定义未来”的TNT语音工作站，再次证明在人工智能的全力助攻下，声音将是下一代科技革命的主宰。</p><a id="more"></a><p>科大讯飞是智能语音及人工智能上市公司和中国人工智能产业的领军企业，在2017年7月推出一款可将任意文本秒变人声的黑科技产品“讯飞有声”。上线一年多以来，已实现全面升级，真正做到内容优质化，功能专业化，操作便捷化，体验人性化。讯飞有声特有的智能语音合成功能依托于科大讯飞十九年的语音合成技术沉淀，支持多语种多方言多角色朗读，人声音质可媲美真人主播发音。</p>]]></content>
-    
     <summary type="html">
     
       &lt;h3 id=&quot;讯飞有声&quot;&gt;&lt;a href=&quot;#讯飞有声&quot; class=&quot;headerlink&quot; title=&quot;讯飞有声&quot;&gt;&lt;/a&gt;讯飞有声&lt;/h3&gt;&lt;p&gt;如果说过去的十年是“读图时代”，那么可以毫不夸张地说，未来的十年将是前所未有的“有声时代”。从苹果公司的智能语音助手Siri多次升级改造和技术革新，到锤子科技发布号称“重新定义未来”的TNT语音工作站，再次证明在人工智能的全力助攻下，声音将是下一代科技革命的主宰。&lt;/p&gt;
@@ -260,13 +252,14 @@
     <published>2019-08-09T00:51:46.000Z</published>
     <updated>2019-08-14T00:04:15.900Z</updated>
     
-    <content type="html"><![CDATA[<h5 id="就想发个图片试试！！"><a href="#就想发个图片试试！！" class="headerlink" title="就想发个图片试试！！"></a>就想发个图片试试！！</h5><p><img src="http://ww1.sinaimg.cn/large/77fca518ly1g5yvrg9g10j20d00isabs.jpg" alt="为什么追我？"><br><img src="http://wx1.sinaimg.cn/mw690/77fca518ly1g5t5072vemj20u01hch0h.jpg" alt="因为你有急支糖浆！"></p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;h5 id=&quot;就想发个图片试试！！&quot;&gt;&lt;a href=&quot;#就想发个图片试试！！&quot; class=&quot;headerlink&quot; title=&quot;就想发个图片试试！！&quot;&gt;&lt;/a&gt;就想发个图片试试！！&lt;/h5&gt;&lt;p&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/large/
+        
+        
+          &lt;h5 id=&quot;就想发个图片试试！！&quot;&gt;&lt;a href=&quot;#就想发个图片试试！！&quot; class=&quot;headerlink&quot; title=&quot;就想发个图片试试！！&quot;&gt;&lt;/a&gt;就想发个图片试试！！&lt;/h5&gt;&lt;p&gt;&lt;img
+        
       
     
     </summary>
@@ -283,13 +276,14 @@
     <published>2019-08-08T07:51:52.000Z</published>
     <updated>2019-08-15T05:14:12.458Z</updated>
     
-    <content type="html"><![CDATA[<div class="tabs" id="first-unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#first-unique-name-1">First unique name 1</a></li><li class="tab"><a href="#first-unique-name-2">First unique name 2</a></li><li class="tab"><a href="#first-unique-name-3">First unique name 3</a></li></ul><div class="tab-content"><div class="tab-pane active" id="first-unique-name-1"><p><strong>This is Tab 1.</strong></p></div><div class="tab-pane" id="first-unique-name-2"><p><strong>This is Tab 2.</strong></p></div><div class="tab-pane" id="first-unique-name-3"><p><strong>This is Tab 3.</strong></p></div></div></div><div class="tabs" id="third-unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#third-unique-name-1">Tom</a></li><li class="tab"><a href="#third-unique-name-2">Jerry</a></li></ul><div class="tab-content"><div class="tab-pane active" id="third-unique-name-1"><p><strong>这是一只猫！</strong><br>据说，猫是有九条命的，所以。。。</p></div><div class="tab-pane" id="third-unique-name-2"><p><strong>这是一个小老鼠</strong></p></div></div></div><center><iframe height="600" width="80%" src="//player.bilibili.com/player.html?aid=60033984&cid=104545342&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></center><p><img src="http://ww1.sinaimg.cn/large/77fca518ly1g5vwzjxj64j20u00u0kc7.jpg" alt="这是个鬼呀"></p><p><img src="http://ww1.sinaimg.cn/large/77fca518ly1g5vx05nvmzj20u00u0e81.jpg" alt="这是第二个图片"></p><p><i class="fa fa-pencil">这是什么？</i></p><p><span id="inline-blue"> 站点配置文件 </span><br><span id="inline-purple"> 主题配置文件 </span><br><span id="inline-yellow"> 站点配置文件 </span><br><span id="inline-green"> 主题配置文件 </span></p>]]></content>
-    
     <summary type="html">
     
       
       
-        &lt;div class=&quot;tabs&quot; id=&quot;first-unique-name&quot;&gt;&lt;ul class=&quot;nav-tabs&quot;&gt;&lt;li class=&quot;tab active&quot;&gt;&lt;a href=&quot;#first-unique-name-1&quot;&gt;First unique name 1&lt;/a&gt;&lt;
+        
+        
+          &lt;div class=&quot;tabs&quot; id=&quot;first-unique-name&quot;&gt;&lt;ul class=&quot;nav-tabs&quot;&gt;&lt;li class=&quot;tab active&quot;&gt;&lt;a href=&quot;#first-unique-name-1&quot;&gt;First unique name
+        
       
     
     </summary>
@@ -307,8 +301,6 @@
     <id>http://kevin-okay.github.io/2019/08/07/hello-world/</id>
     <published>2019-08-07T07:17:07.483Z</published>
     <updated>2019-08-10T03:34:05.983Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     
