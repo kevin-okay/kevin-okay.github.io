@@ -71,13 +71,13 @@
     <link href="http://kevin-okay.github.io/2019/08/13/hexo%E7%AE%80%E4%BB%8B/"/>
     <id>http://kevin-okay.github.io/2019/08/13/hexo简介/</id>
     <published>2019-08-13T08:15:29.000Z</published>
-    <updated>2019-08-14T04:35:34.384Z</updated>
+    <updated>2019-08-19T11:02:07.332Z</updated>
     
     <summary type="html">
     
       &lt;p&gt;Hexo 是在 Node.js 框架下产生的一个静态博客框架项目，利用 Node.js 可以完成从 Markdown 到静态网页的转换，之后托管到 GitHub 上可以形成个人博客，是搭建博客网站的首选框架。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;静态博客：是指没有后端数据库的博客，所有文章都是以文件的形式存储，是一种纯前端的博客框架。&lt;br&gt;Hexo 的创建者是中国台湾人，对中文的支持很友好。&lt;/p&gt;
+&lt;p&gt;静态博客：是指没有后端数据库的博客，所有文章都是以文件的形式存储，是一种纯前端的博客框架。&lt;/p&gt;
 &lt;/blockquote&gt;
     
     </summary>
@@ -142,38 +142,6 @@
       <category term="code" scheme="http://kevin-okay.github.io/tags/code/"/>
     
       <category term="简语" scheme="http://kevin-okay.github.io/tags/%E7%AE%80%E8%AF%AD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>网站的搭建</title>
-    <link href="http://kevin-okay.github.io/2019/08/12/%E7%BD%91%E7%AB%99%E7%9A%84%E6%90%AD%E5%BB%BA/"/>
-    <id>http://kevin-okay.github.io/2019/08/12/网站的搭建/</id>
-    <published>2019-08-12T06:43:12.000Z</published>
-    <updated>2019-08-12T07:07:02.947Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h3 id=&quot;这是一篇测试文章，仅此！&quot;&gt;&lt;a href=&quot;#这是一篇测试文章，仅此！&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="技术" scheme="http://kevin-okay.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-      <category term="编程" scheme="http://kevin-okay.github.io/categories/%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B/"/>
-    
-      <category term="html" scheme="http://kevin-okay.github.io/categories/%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B/html/"/>
-    
-    
-      <category term="java" scheme="http://kevin-okay.github.io/tags/java/"/>
-    
-      <category term="c#" scheme="http://kevin-okay.github.io/tags/c/"/>
     
   </entry>
   
@@ -270,35 +238,11 @@
   </entry>
   
   <entry>
-    <title>a picture</title>
-    <link href="http://kevin-okay.github.io/2019/08/09/a-picture/"/>
-    <id>http://kevin-okay.github.io/2019/08/09/a-picture/</id>
-    <published>2019-08-09T00:51:46.000Z</published>
-    <updated>2019-08-14T00:04:15.900Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h5 id=&quot;就想发个图片试试！！&quot;&gt;&lt;a href=&quot;#就想发个图片试试！！&quot; class=&quot;headerlink&quot; title=&quot;就想发个图片试试！！&quot;&gt;&lt;/a&gt;就想发个图片试试！！&lt;/h5&gt;&lt;p&gt;&lt;img
-        
-      
-    
-    </summary>
-    
-    
-      <category term="图片" scheme="http://kevin-okay.github.io/tags/%E5%9B%BE%E7%89%87/"/>
-    
-  </entry>
-  
-  <entry>
     <title>标签测试</title>
     <link href="http://kevin-okay.github.io/2019/08/08/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/"/>
     <id>http://kevin-okay.github.io/2019/08/08/标签测试/</id>
     <published>2019-08-08T07:51:52.000Z</published>
-    <updated>2019-08-16T09:31:42.797Z</updated>
+    <updated>2019-08-19T11:01:22.382Z</updated>
     
     <summary type="html">
     
