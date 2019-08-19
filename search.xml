@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[在线上传文件夹或文件到Github]]></title>
     <url>%2F2019%2F08%2F19%2F%E5%9C%A8%E7%BA%BF%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E5%A4%B9%E6%88%96%E6%96%87%E4%BB%B6%E5%88%B0Github%2F</url>
-    <content type="text"><![CDATA[方法步骤 打开Github仓库页面，选择下图所示按钮： 按照提示拖拽文件夹或文件到提示区域： 稍等片刻，等待文件（夹）上传完毕，填入提交说明，点击提交按钮即可。 刷新页面，即可看到已经提交的内容！]]></content>
+    <content type="text"><![CDATA[此种方法，江湖中甚少使用罢了！ 方法步骤 打开Github仓库页面，选择下图所示按钮： 按照提示拖拽文件夹或文件到提示区域： 稍等片刻，等待文件（夹）上传完毕，填入提交说明，点击提交按钮即可。 刷新页面，即可看到已经提交的内容！]]></content>
       <categories>
         <category>技术</category>
       </categories>
