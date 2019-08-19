@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[在线上传文件夹或文件到Github]]></title>
+    <url>%2F2019%2F08%2F19%2F%E5%9C%A8%E7%BA%BF%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E5%A4%B9%E6%88%96%E6%96%87%E4%BB%B6%E5%88%B0Github%2F</url>
+    <content type="text"><![CDATA[方法步骤打开Github仓库页面，选择下图所示按钮： 按照提示拖拽文件夹或文件到提示区域： 稍等片刻，等待文件（夹）上传完毕，填入提交说明，点击提交按钮即可。 刷新页面，即可看到已经提交的内容！]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>git</tag>
+        <tag>github</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hexo搭建教程]]></title>
     <url>%2F2019%2F08%2F14%2FHexo%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B%2F</url>
     <content type="text"><![CDATA[废话少说，直接进入主题 hexo的初步搭建以及部署到github的pages页面上 安装Git git：Git 是目前世界上最先进的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理 Github创建各人仓库，借助Git生成SSH并和本地的Git绑定（网上查找教程） 仓库名：用户名.github.io格式 安装Nodejs（集成了NPM管理工具） 选择LTS版安装 安装Hexo及搭建本地个人博客网站 部署博客到Github上 安装 deploy-git: npm install hexo-deployer-git --save 打开站点配置文件 _config.yml，翻到最后，安装如下格式添加：deploy:type: gitrepo: https://github.com/YourgithubName/YourgithubName.github.io.gitbranch: master 最后：hexo cleanhexo ghexo d即可在http://yourname.github.io看到博客了 发布文章 hexo n “文件名称” 再次部署即可看到自己发布的文章了 hexo g 生成静态Htmlhexo d 部署Html网页到github的pages页面上 扩展：在文件根目录下的_config.yml，就是整个 hexo 框架的配置文件了，可以在里面修改大部分的配置。]]></content>
