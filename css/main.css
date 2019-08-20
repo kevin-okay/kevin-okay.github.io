@@ -1801,7 +1801,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #0dd9ff;
+  background: #06e21c;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2482,17 +2482,17 @@ ul.breadcrumb li+li:last-child {
 }
 .header-inner {
   background: #fff;
-  border-radius: 0 0 5px 5px;
+  border-radius: 0 0 3px 3px;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12);
   overflow: hidden;
   padding: 0;
   position: absolute;
   top: 0;
-  width: 240px;
+  width: 260px;
 }
 @media (min-width: 1200px) {
   .container .header-inner {
-    width: 240px;
+    width: 260px;
   }
 }
 @media (max-width: 991px) {
@@ -2517,13 +2517,13 @@ ul.breadcrumb li+li:last-child {
 }
 .content-wrap {
   background: #fff;
-  border-radius: 0 0 5px 5px;
+  border-radius: 0 0 3px 3px;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12);
   box-sizing: border-box;
   float: right;
   min-height: 700px;
   padding: 40px;
-  width: calc(100% - 252px);
+  width: calc(100% - 272px);
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .content-wrap {
@@ -2546,7 +2546,7 @@ ul.breadcrumb li+li:last-child {
   float: left;
   margin-left: -100%;
   position: static;
-  width: 240px;
+  width: 260px;
 }
 @media (max-width: 991px) {
   .sidebar {
@@ -2745,11 +2745,11 @@ ul.breadcrumb li+li:last-child {
 }
 .sidebar-inner {
   background: #fff;
-  border-radius: 5px;
+  border-radius: 3px;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
   box-sizing: border-box;
   color: #555;
-  width: 240px;
+  width: 260px;
   opacity: 0;
 }
 .sidebar-inner.affix {
@@ -2871,18 +2871,18 @@ ul.breadcrumb li+li:last-child {
 }
 .post-block {
   background: #fff;
-  border-radius: 0 0 5px 5px;
+  border-radius: 0 0 3px 3px;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12);
   padding: 40px;
 }
 #posts > article + article .post-block {
-  border-radius: 5px;
+  border-radius: 3px;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
   margin-top: 12px;
 }
 .comments {
   background: #fff;
-  border-radius: 5px;
+  border-radius: 3px;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
   margin: auto;
   margin-top: 12px;
@@ -2908,7 +2908,7 @@ ul.breadcrumb li+li:last-child {
 }
 .pagination {
   background: #fff;
-  border-radius: 5px;
+  border-radius: 3px;
   border-top: initial;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
   margin: 12px 0 0;
@@ -2962,7 +2962,7 @@ ul.breadcrumb li+li:last-child {
     margin-top: 20px;
   }
   .post-block {
-    border-radius: 5px;
+    border-radius: 3px;
     box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
     padding: 20px;
   }
@@ -2991,7 +2991,7 @@ ul.breadcrumb li+li:last-child {
     padding: initial !important;
   }
   .post-block {
-    border-radius: 5px;
+    border-radius: 3px;
     box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
     min-height: auto;
     padding: 12px;
@@ -3009,6 +3009,21 @@ ul.breadcrumb li+li:last-child {
 }
 .site-meta {
   background: #0093e5;
+}
+.post-body p img {
+  max-height: auto;
+  max-width: 92%;
+  vertical-align: middle;
+}
+.post-body p a {
+  color: #0593d3;
+  border-bottom: none;
+  border-bottom: 1px solid #0593d3;
+}
+.post-body p a:hover {
+  color: #fc6423;
+  border-bottom: none;
+  border-bottom: 1px solid #fc6423;
 }
 span#inline-yellow {
   display: inline;
@@ -3061,14 +3076,4 @@ span#inline-purple {
   vertical-align: baseline;
   border-radius: 0;
   background-color: #9954bb;
-}
-.post-body p a {
-  color: #0593d3;
-  border-bottom: none;
-  border-bottom: 1px solid #0593d3;
-}
-.post-body p a:hover {
-  color: #fc6423;
-  border-bottom: none;
-  border-bottom: 1px solid #fc6423;
 }
