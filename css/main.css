@@ -1801,7 +1801,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #61776a;
+  background: #ff86c8;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3010,13 +3010,22 @@ ul.breadcrumb li+li:last-child {
 .site-meta {
   background: #0093e5;
 }
+.post-body {
+  margin: -15px 25px;
+}
 .post-body p img {
   max-height: auto;
-  max-width: 90%;
+  max-width: 92%;
   vertical-align: middle;
 }
-.post-body {
-  margin: -20px 20px;
+.popular-posts-header {
+  margin: 60px 25px 10px 25px;
+}
+.popular-posts {
+  margin: 16px 25px;
+}
+.post-copyright {
+  margin: 40px 25px;
 }
 .post-body p a {
   color: #0593d3;
