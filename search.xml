@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[如何在Github上查找好的开源项目]]></title>
+    <url>%2F2019%2F08%2F20%2F%E5%A6%82%E4%BD%95%E5%9C%A8Github%E4%B8%8A%E6%9F%A5%E6%89%BE%E5%A5%BD%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%2F</url>
+    <content type="text"><![CDATA[GitHub 对于做技术开发的人来说作用很大，但里面代码良莠不齐，在下载前请注意仔细甄别！那么该如何省时省力的找到好的开源项目？ 登录 GitHub，选择页面顶部的Explore 或者页面中心找到 Explore Github，如图： GitHub 会把所有近期活跃的项目呈现给大家，按照默认排序，点击右上角的 Trending 按钮，如图： Treding 页面可以查看最近火的项目仓库，编程语言和时间在右边可以进行选择，这是主动获取一些好的开源项目最好的途径]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>git</tag>
+        <tag>github</tag>
+        <tag>编程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[在线上传文件夹或文件到Github]]></title>
     <url>%2F2019%2F08%2F19%2F%E5%9C%A8%E7%BA%BF%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E5%A4%B9%E6%88%96%E6%96%87%E4%BB%B6%E5%88%B0Github%2F</url>
     <content type="text"><![CDATA[此种方法，江湖中甚少使用罢了！ 方法步骤 打开Github仓库页面，选择下图所示按钮： 按照提示拖拽文件夹或文件到提示区域： 稍等片刻，等待文件（夹）上传完毕，填入提交说明，点击提交按钮即可。 刷新页面，即可看到已经提交的内容！]]></content>
