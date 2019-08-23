@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Hexo使用中常见问题]]></title>
+    <url>%2F2019%2F08%2F23%2FHexo%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%2F</url>
+    <content type="text"><![CDATA[以下是一些使用Hexo时，一些常见的问题，或许你也会遇到！ YAML Parsing Error12JS-YAML: incomplete explicit mapping pair; a key node is missed at line 18, column 29:last_updated: Last updated: %s 参数中包含冒号，请用加引号，如 Last updated: %s 12JS-YAML: bad indentation of a mapping entry at line 18, column 31:last_updated：&quot;Last updated: %s&quot; 字段后面的冒号必须为英文冒号，如：last_updated: 字段冒号后面必须跟一个空格，如：last_updated: “Last updated: % s” Git Deployment Problemsfatal: &#39;username.github.io&#39; does not appear to be a git repository 确保你有你的电脑上设置 git 正确或尝试使用 HTTPS 存储库 URL。 Error: ENOENT: no such file or directory 可能是由于写错了标签，类别，或文件名，导致本地和 github 冲突了，Git 不能自动合并这一变化所以它打破了自动分支。 解决办法： 检查文章的标签和类别，确保本地和 github 上是相同的。 合并分支（Commit）。 清除，重构。在站点目录下，命令行（即 Git Bash）运行 hexo clean 和 hexo g 手动将站点目录下的 public 文件夹复制到您的桌面 从你的 master 分支切换到部署在本地分支。 从桌面复制 public 文件夹到本地分支。 合并分支到 github（Commit）。 切回 master 分支。 Data Not Updated一些数据不能更新或新生成的文件的最后一个版本完全相同,清理缓存，再试一次！]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>FAQ</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[如何在Github上查找好的开源项目]]></title>
     <url>%2F2019%2F08%2F20%2F%E5%A6%82%E4%BD%95%E5%9C%A8Github%E4%B8%8A%E6%9F%A5%E6%89%BE%E5%A5%BD%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%2F</url>
     <content type="text"><![CDATA[GitHub 对于做技术开发的人来说作用很大，但里面代码良莠不齐，在下载前请注意仔细甄别！那么该如何省时省力的找到好的开源项目？ 登录 GitHub，选择页面顶部的Explore 或者页面中心找到 Explore Github，如图： GitHub 会把所有近期活跃的项目呈现给大家，按照默认排序，点击右上角的 Trending 按钮，如图： Treding 页面可以查看最近火的项目仓库，编程语言和时间在右边可以进行选择，这是主动获取一些好的开源项目最好的途径]]></content>
