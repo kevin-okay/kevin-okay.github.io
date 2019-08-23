@@ -1801,7 +1801,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #cc34ff;
+  background: #deff40;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3010,19 +3010,11 @@ ul.breadcrumb li+li:last-child {
 .site-meta {
   background: #0093e5;
 }
-/*
-.header{ width: 90%; } 
-.container .main-inner { width: 90%; }
-.content-wrap {width: calc(115.5% - 450px);}
-*/
 .header {
-  width: 1234px;
+  width: 72%;
 }
 .container .main-inner {
-  width: 1234px;
-}
-.content-wrap {
-  width: calc(120% - 515px);
+  width: 72%;
 }
 .post-body {
   margin: -9px 21px;
