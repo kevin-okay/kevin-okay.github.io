@@ -1801,7 +1801,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #963246;
+  background: #20d254;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3162,17 +3162,8 @@ ul.breadcrumb li+li:last-child {
   padding-left: 0;
   padding-right: 260px;
 }
-.post-body {
-  margin: -9px 21px;
-}
-.popular-posts-header {
-  margin: 60px 21px 10px 21px;
-}
-.popular-posts {
-  margin: 16px 21px;
-}
-.post-copyright {
-  margin: 40px 21px;
+.post-block {
+  padding: 40px 80px;
 }
 .post-body p a {
   color: #0593d3;
