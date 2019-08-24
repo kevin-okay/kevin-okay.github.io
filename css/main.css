@@ -1801,7 +1801,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a4ffff;
+  background: #5967f1;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3176,7 +3176,7 @@ ul.breadcrumb li+li:last-child {
 .post-body p img {
   max-height: auto;
   max-width: 92%;
-  vertical-align: text-top;
+  align: justify;
 }
 .popular-posts-header {
   margin: 60px 21px 10px 21px;
