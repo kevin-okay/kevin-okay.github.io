@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevin-okay.github.io/"/>
-  <updated>2019-08-25T06:44:29.705Z</updated>
+  <updated>2019-08-25T08:25:04.710Z</updated>
   <id>http://kevin-okay.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于知识共享许可证</title>
+    <link href="http://kevin-okay.github.io/2019/08/25/%E5%85%B3%E4%BA%8E%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB%E8%AE%B8%E5%8F%AF%E8%AF%81/"/>
+    <id>http://kevin-okay.github.io/2019/08/25/关于知识共享许可证/</id>
+    <published>2019-08-25T08:07:10.000Z</published>
+    <updated>2019-08-25T08:25:04.710Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hexo 博客经常使用的协议是：CC BY-NC-SA，解读为允许其他人基于你的作品进行非商业性创作，只要他们标识你的姓名或名称，并以相同条款许可他们的新作品。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="http://kevin-okay.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="hexo" scheme="http://kevin-okay.github.io/tags/hexo/"/>
+    
+      <category term="博客" scheme="http://kevin-okay.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="协议" scheme="http://kevin-okay.github.io/tags/%E5%8D%8F%E8%AE%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>博客安装LiveRe评论系统</title>
