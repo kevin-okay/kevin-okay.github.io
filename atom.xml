@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevin-okay.github.io/"/>
-  <updated>2019-08-23T08:46:23.013Z</updated>
+  <updated>2019-08-25T06:38:02.705Z</updated>
   <id>http://kevin-okay.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客安装LiveRe评论系统</title>
+    <link href="http://kevin-okay.github.io/2019/08/25/%E5%8D%9A%E5%AE%A2%E5%AE%89%E8%A3%85LiveRe%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/"/>
+    <id>http://kevin-okay.github.io/2019/08/25/博客安装LiveRe评论系统/</id>
+    <published>2019-08-25T06:22:29.000Z</published>
+    <updated>2019-08-25T06:38:02.705Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;来必力网络评论是由韩国企业开发的社交评论平台 “LiveRe”，中文名称：来必力，于 2010 年出世后，受到了业界广泛的好评，支持中、英、韩、三种语言，近来用户人数在持续增加，人气不断飙升。&lt;br&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/large/77fca518ly1g6bwv36ox1j207707776j.jpg&quot; alt=&quot;来必力支持的社交网络&quot;&gt;&lt;br&gt;同时，LiveRe 提供强大的管理功能，可轻松地实现管理自己的历史评论以及网站的回帖。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="http://kevin-okay.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="hexo" scheme="http://kevin-okay.github.io/tags/hexo/"/>
+    
+      <category term="博客" scheme="http://kevin-okay.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="评论系统" scheme="http://kevin-okay.github.io/tags/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo使用中常见问题</title>
