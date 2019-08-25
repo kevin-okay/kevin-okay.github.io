@@ -104,9 +104,9 @@
     
       <category term="hexo" scheme="http://kevin-okay.github.io/tags/hexo/"/>
     
-      <category term="nodejs" scheme="http://kevin-okay.github.io/tags/nodejs/"/>
-    
       <category term="git" scheme="http://kevin-okay.github.io/tags/git/"/>
+    
+      <category term="nodejs" scheme="http://kevin-okay.github.io/tags/nodejs/"/>
     
   </entry>
   
