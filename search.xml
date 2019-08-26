@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[关于知识共享许可证]]></title>
     <url>%2F2019%2F08%2F25%2F%E5%85%B3%E4%BA%8E%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB%E8%AE%B8%E5%8F%AF%E8%AF%81%2F</url>
-    <content type="text"><![CDATA[Hexo 博客经常使用的协议是：CC BY-NC-SA，解读为允许其他人基于你的作品进行非商业性创作，只要他们标识你的姓名或名称，并以相同条款许可他们的新作品。 以下是6种知识共享版权许可协议，具体详情参见：Creative Commons 4.0 International License. • CC BY (署名)• CC BY-SA (署名 - 相同方式共享)• CC BY-ND (署名 - 禁止演绎)• CC BY-NC (署名 - 非商业性使用)• CC BY-NC-SA (署名 - 非商业性使用 - 相同方式共享)• CC BY-NC-ND (署名 - 非商业性使用 - 禁止演绎) ** CC：Creative Commons，意为知识共享]]></content>
+    <content type="text"><![CDATA[Hexo 博客经常使用的协议是：CC BY-NC-SA，解读为允许其他人基于你的作品进行非商业性创作，只要他们标识你的姓名或名称，并以相同条款许可他们的新作品。 以下是6种知识共享版权许可协议，具体详情参见：Creative Commons 4.0 International License. • CC BY (署名)• CC BY-SA (署名 - 相同方式共享)• CC BY-ND (署名 - 禁止演绎)• CC BY-NC (署名 - 非商业性使用)• CC BY-NC-SA (署名 - 非商业性使用 - 相同方式共享)• CC BY-NC-ND (署名 - 非商业性使用 - 禁止演绎) ** CC：Creative Commons，意为知识共享联盟]]></content>
       <categories>
         <category>技术</category>
       </categories>
@@ -16,7 +16,7 @@
   <entry>
     <title><![CDATA[博客安装LiveRe评论系统]]></title>
     <url>%2F2019%2F08%2F25%2F%E5%8D%9A%E5%AE%A2%E5%AE%89%E8%A3%85LiveRe%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%2F</url>
-    <content type="text"><![CDATA[来必力网络评论是由韩国企业开发的社交评论平台 “LiveRe”，中文名称：来必力，于 2010 年出世后，受到了业界广泛的好评，支持中、英、韩、三种语言，近来用户人数在持续增加，人气不断飙升。同时，LiveRe 提供强大的管理功能，可轻松地实现管理自己的历史评论以及网站的回帖。 那么如何给自己的博客安装 LiveRe ?注册 LiveRe 账号进入来必力官方主页，来必力现提供有两个版本：City 版：是一款适合所有人使用的免费版本；Premium 版：是一款能够帮助企业实现自动化管理的多功能收费版本。 一般用户使用 City 版就可以了，通过邮件接收验证码后，完成注册。 注册成功后，进入到管理页面 -&gt; 代码管理 -&gt; 一般网站标签页中的 data-uid 即为所需 uid。 博客添加 LiveRe 评论系统以下是 Hexo 博客的 NexT 主题添加来必力： 注意：最新版 Next 主题已集成 Livere ，所以添加变得异常简单！ 只需在主题文件下的 _config.yml 文件找到 livere_uid 设置项，添加来必力官方提供的 uid 号码 123# LiveRe comments system# You can get your uid from https://livere.com/insight/myCode (General web site)livere_uid: 来必力官方提供的 uid 号码 重新部署，刷新页面，即可在每篇文章的最下方看到添加的来比力评论系统！]]></content>
+    <content type="text"><![CDATA[来必力网络评论是由韩国企业开发的社交评论平台 “LiveRe”，中文名称：来必力，于 2010 年出世后，受到了业界广泛的好评，支持中、英、韩、三种语言，近来用户人数在持续增加，人气不断飙升。同时，LiveRe 提供强大的管理功能，可轻松地实现管理自己的历史评论以及网站的回帖。 来必力支持的多种社交网络： 那么如何给自己的博客安装 LiveRe ?注册 LiveRe 账号进入来必力官方主页，来必力现提供有两个版本：City 版：是一款适合所有人使用的免费版本；Premium 版：是一款能够帮助企业实现自动化管理的多功能收费版本。 一般用户使用 City 版就可以了，通过邮件接收验证码后，完成注册。 注册成功后，进入到管理页面 -&gt; 代码管理 -&gt; 一般网站标签页中的 data-uid 即为所需 uid。 博客添加 LiveRe 评论系统以下是 Hexo 博客的 NexT 主题添加来必力： 注意：最新版 Next 主题已集成 Livere ，所以添加变得异常简单！ 只需在主题文件下的 _config.yml 文件找到 livere_uid 设置项，添加来必力官方提供的 uid 号码 123# LiveRe comments system# You can get your uid from https://livere.com/insight/myCode (General web site)livere_uid: 来必力官方提供的 uid 号码 重新部署，刷新页面，即可在每篇文章的最下方看到添加的来比力评论系统！]]></content>
       <categories>
         <category>技术</category>
       </categories>
