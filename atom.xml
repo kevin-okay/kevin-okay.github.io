@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevin-okay.github.io/"/>
-  <updated>2019-08-31T10:16:12.742Z</updated>
+  <updated>2019-09-01T03:29:19.561Z</updated>
   <id>http://kevin-okay.github.io/</id>
   
   <author>
@@ -17,16 +17,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Excel使用163种技巧</title>
+    <title>Excel使用技巧</title>
     <link href="http://kevin-okay.github.io/2019/08/31/Excel%E4%BD%BF%E7%94%A8163%E7%A7%8D%E6%8A%80%E5%B7%A7/"/>
     <id>http://kevin-okay.github.io/2019/08/31/Excel使用163种技巧/</id>
     <published>2019-08-31T10:11:20.000Z</published>
-    <updated>2019-08-31T10:16:12.742Z</updated>
+    <updated>2019-09-01T03:29:19.561Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;基本方法&quot;&gt;&lt;a href=&quot;#基本方法&quot; class=&quot;headerlink&quot; title=&quot;基本方法&quot;&gt;&lt;/a&gt;基本方法&lt;/h3&gt;&lt;h5 id=&quot;快速选中全部工作表&quot;&gt;&lt;a href=&quot;#快速选中全部工作表&quot; class=&quot;headerlink&quot; title=&quot;快速选中全部工作表&quot;&gt;&lt;/a&gt;快速选中全部工作表&lt;/h5&gt;&lt;p&gt;右键单击工作窗口下面的工作表标签，在弹出的菜单中选择“选定全部工作表”命令即可（）。&lt;/p&gt;
-&lt;h5 id=&quot;快速启动Excel&quot;&gt;&lt;a href=&quot;#快速启动Excel&quot; class=&quot;headerlink&quot; title=&quot;快速启动Excel&quot;&gt;&lt;/a&gt;快速启动Excel&lt;/h5&gt;&lt;p&gt;如果想在启动系统自动运行Excel，可以这样操作:1.双击“我的电脑”图标，进入Windows目录，依次打开“StartMenu\Programs\启动”文件夹;2.打开Excel所在的文件夹，用鼠标将Excel图标拖到“启动”文件夹，这时Excel的快捷方式就被复制到“启动”文件夹中，下次启动Windows就可快速启动Excel了。如果Windows系统已启动，你可用以下方法快速启动Excel:方法一:单击“开始→文档”命令里的任一Excel工作簿即可。方法二:用鼠标从“我的电脑”中将Excel应用程序拖到桌面上，然后从快捷菜单中选择“在当前位置创建快捷方式”，以后启动时只需双击快捷方式即可。&lt;/p&gt;
+      &lt;h2 id=&quot;基本操作&quot;&gt;&lt;a href=&quot;#基本操作&quot; class=&quot;headerlink&quot; title=&quot;基本操作&quot;&gt;&lt;/a&gt;基本操作&lt;/h2&gt;&lt;h4 id=&quot;选定超级链接文本而不跳转&quot;&gt;&lt;a href=&quot;#选定超级链接文本而不跳转&quot; class=&quot;headerlink&quot; title=&quot;选定超级链接文本而不跳转&quot;&gt;&lt;/a&gt;选定超级链接文本而不跳转&lt;/h4&gt;&lt;p&gt;可在指向该单元格时，单击并按住可选定单元格。&lt;br&gt;&lt;img src=&quot;//ws4.sinaimg.cn/large/77fca518ly1g6jsiexs98j20d6060wpc.jpg&quot; alt=&quot;Snipaste_2019-09-01_08-56-54&quot;&gt;&lt;/p&gt;
     
     </summary>
     
