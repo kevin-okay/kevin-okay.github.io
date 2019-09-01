@@ -214,7 +214,7 @@
     <link href="http://kevin-okay.github.io/2019/08/13/hexo%E7%AE%80%E4%BB%8B/"/>
     <id>http://kevin-okay.github.io/2019/08/13/hexo简介/</id>
     <published>2019-08-13T08:15:29.000Z</published>
-    <updated>2019-08-20T08:24:40.484Z</updated>
+    <updated>2019-09-01T05:23:19.955Z</updated>
     
     <summary type="html">
     
@@ -228,7 +228,7 @@
     
       <category term="hexo" scheme="http://kevin-okay.github.io/tags/hexo/"/>
     
-      <category term="博客搭建" scheme="http://kevin-okay.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <category term="博客" scheme="http://kevin-okay.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -237,7 +237,7 @@
     <link href="http://kevin-okay.github.io/2019/08/12/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E6%B3%A8%E9%87%8A/"/>
     <id>http://kevin-okay.github.io/2019/08/12/插入图片注释/</id>
     <published>2019-08-12T10:28:56.000Z</published>
-    <updated>2019-08-20T08:35:43.926Z</updated>
+    <updated>2019-09-01T05:23:31.227Z</updated>
     
     <summary type="html">
     
@@ -247,8 +247,6 @@
     
     
       <category term="demo" scheme="http://kevin-okay.github.io/tags/demo/"/>
-    
-      <category term="学习" scheme="http://kevin-okay.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
@@ -281,7 +279,7 @@
     <link href="http://kevin-okay.github.io/2019/08/11/NEXT%E4%B8%BB%E9%A2%98%E7%9A%84%E9%85%8D%E7%BD%AE/"/>
     <id>http://kevin-okay.github.io/2019/08/11/NEXT主题的配置/</id>
     <published>2019-08-11T00:21:21.000Z</published>
-    <updated>2019-08-20T08:24:37.283Z</updated>
+    <updated>2019-09-01T05:23:15.155Z</updated>
     
     <summary type="html">
     
@@ -295,6 +293,8 @@
     
     </summary>
     
+      <category term="技术" scheme="http://kevin-okay.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
     
       <category term="hexo" scheme="http://kevin-okay.github.io/tags/hexo/"/>
     
@@ -305,7 +305,7 @@
     <link href="http://kevin-okay.github.io/2019/08/11/HEXO%E7%9A%84%E5%AE%89%E8%A3%85/"/>
     <id>http://kevin-okay.github.io/2019/08/11/HEXO的安装/</id>
     <published>2019-08-11T00:20:42.000Z</published>
-    <updated>2019-08-20T08:12:17.027Z</updated>
+    <updated>2019-09-01T05:23:23.412Z</updated>
     
     <summary type="html">
     
@@ -329,7 +329,7 @@
     <link href="http://kevin-okay.github.io/2019/08/10/%E7%95%85%E6%83%B3%E6%B8%B8%E6%88%8F/"/>
     <id>http://kevin-okay.github.io/2019/08/10/畅想游戏/</id>
     <published>2019-08-10T10:33:00.000Z</published>
-    <updated>2019-08-20T08:06:49.213Z</updated>
+    <updated>2019-09-01T05:23:29.220Z</updated>
     
     <summary type="html">
     
@@ -365,7 +365,7 @@
     <link href="http://kevin-okay.github.io/2019/08/08/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95/"/>
     <id>http://kevin-okay.github.io/2019/08/08/标签测试/</id>
     <published>2019-08-08T07:51:52.000Z</published>
-    <updated>2019-08-25T09:01:15.999Z</updated>
+    <updated>2019-09-01T05:23:33.461Z</updated>
     
     <summary type="html">
     
@@ -381,8 +381,6 @@
     
     
       <category term="Testing" scheme="http://kevin-okay.github.io/tags/Testing/"/>
-    
-      <category term="Another Tag" scheme="http://kevin-okay.github.io/tags/Another-Tag/"/>
     
   </entry>
   

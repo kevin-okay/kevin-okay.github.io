@@ -107,7 +107,7 @@
     <content type="text"><![CDATA[Hexo 是在 Node.js 框架下产生的一个静态博客框架项目，利用 Node.js 可以完成从 Markdown 到静态网页的转换，之后托管到 GitHub 上可以形成个人博客，是搭建博客网站的首选框架。 静态博客：是指没有后端数据库的博客，所有文章都是以文件的形式存储，是一种纯前端的博客框架。 安装 hexo 后源码目录结构 说明.deploy_git：执行 hexo d 命令后部署到 GitHub/Gitlab 上的内容都在这个目录中。node_modules: 存放安装的模块scaffolds: 存放模板文件，有 draft.md, page.md, post.md 三种source：站点资源目录，写的文章，素材等都放在这个目录下，包括以后你需要新建的菜单项如 about 页、tags 页、categories 页等也是放在这里。themes：主题文件目录。_config.yml：hexo 博客全局配置文件。 注意执行 hexo g 命令后，在博客目录会生成 public 文件夹，md文件转化的静态网页内容都在这个目录中，也就是打开博客后所显示的网页。]]></content>
       <tags>
         <tag>hexo</tag>
-        <tag>博客搭建</tag>
+        <tag>博客</tag>
       </tags>
   </entry>
   <entry>
@@ -116,7 +116,6 @@
     <content type="text"><![CDATA[]]></content>
       <tags>
         <tag>demo</tag>
-        <tag>学习</tag>
       </tags>
   </entry>
   <entry>
@@ -131,6 +130,9 @@
     <title><![CDATA[NEXT主题的配置]]></title>
     <url>%2F2019%2F08%2F11%2FNEXT%E4%B8%BB%E9%A2%98%E7%9A%84%E9%85%8D%E7%BD%AE%2F</url>
     <content type="text"><![CDATA[相关需要设置的参数 侧边栏 头相 RSS 社交 友情链接 -与_的区分 ：要敲个空格 插入图片（md文件） 菜单栏的显示与设置 页脚设置（建站时间、不蒜子、建站工具、网站主题、全站字数等） Creative Commons 4.0 设置 主题方案 scrollpercent 文章字数统计 链接文字的颜色设置]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
       <tags>
         <tag>hexo</tag>
       </tags>
@@ -165,7 +167,6 @@
     <content type="text"><![CDATA[First unique name 1First unique name 2First unique name 3This is Tab 1.This is Tab 2.This is Tab 3. TomJerry这是一只猫！据说，猫是有九条命的，所以。。。这是一个小老鼠 这是什么？ 站点配置文件 主题配置文件 站点配置文件 主题配置文件 1234- 人闲桂花落，+ 夜静春山空。! 月出惊山鸟，# 时鸣搐涧中。]]></content>
       <tags>
         <tag>Testing</tag>
-        <tag>Another Tag</tag>
       </tags>
   </entry>
   <entry>
