@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevin-okay.github.io/"/>
-  <updated>2019-09-01T04:28:05.763Z</updated>
+  <updated>2019-09-01T05:18:12.556Z</updated>
   <id>http://kevin-okay.github.io/</id>
   
   <author>
@@ -17,16 +17,43 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hexo解析的文章目录的标题错乱</title>
+    <link href="http://kevin-okay.github.io/2019/09/01/Hexo%E8%A7%A3%E6%9E%90%E7%9A%84%E6%96%87%E7%AB%A0%E7%9B%AE%E5%BD%95%E7%9A%84%E6%A0%87%E9%A2%98%E9%94%99%E4%B9%B1/"/>
+    <id>http://kevin-okay.github.io/2019/09/01/Hexo解析的文章目录的标题错乱/</id>
+    <published>2019-09-01T04:56:58.000Z</published>
+    <updated>2019-09-01T05:18:12.556Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;使用 hexo 的 next 主题，发现文章的目录排列错乱，然本地的md文件完全正确，这是为什么呢？&lt;/p&gt;
+&lt;p&gt;目录排列错乱效果图：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://wx4.sinaimg.cn/large/77fca518ly1g6jxvifin9j208h0acweo.jpg&quot; alt&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="http://kevin-okay.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="hexo" scheme="http://kevin-okay.github.io/tags/hexo/"/>
+    
+      <category term="next" scheme="http://kevin-okay.github.io/tags/next/"/>
+    
+      <category term="博客" scheme="http://kevin-okay.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Excel使用技巧</title>
     <link href="http://kevin-okay.github.io/2019/08/31/Excel%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
     <id>http://kevin-okay.github.io/2019/08/31/Excel使用技巧/</id>
     <published>2019-08-31T10:11:20.000Z</published>
-    <updated>2019-09-01T04:28:05.763Z</updated>
+    <updated>2019-09-01T04:53:36.392Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;如何在Excel中，选定超级链接文本而不跳转&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;可在指向该单元格时，单击并按住可选定单元格。&lt;br&gt;&lt;img src=&quot;http://ws4.sinaimg.cn/large/77fca518ly1g6jv3kb618j20d6060wpc.jpg&quot; alt&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Q：如何在Excel中，选定超级链接文本而不跳转?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A：&lt;/strong&gt;可在指向该单元格时，单击并按住可选定单元格。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ws4.sinaimg.cn/large/77fca518ly1g6jv3kb618j20d6060wpc.jpg&quot; alt&gt;&lt;/p&gt;
     
     </summary>
     
