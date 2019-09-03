@@ -58,20 +58,20 @@
 </script>
 
 
-  <meta name="description" content="使用 hexo 的 next 主题，发现文章的目录排列错乱，然本地的md文件完全正确，这是为什么呢？ 目录排列错乱效果图：">
+  <meta name="description" content="使用 hexo 的 next 主题，发现文章的目录排列错乱，然本地的md文件完全正确，这是为什么呢？该如何解决？">
 <meta name="keywords" content="hexo,next,博客">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Hexo解析的文章目录的标题错乱">
 <meta property="og:url" content="http://kevin-okay.github.io/2019/09/01/Hexo解析的文章目录的标题错乱/index.html">
 <meta property="og:site_name" content="浪里个浪的博客">
-<meta property="og:description" content="使用 hexo 的 next 主题，发现文章的目录排列错乱，然本地的md文件完全正确，这是为什么呢？ 目录排列错乱效果图：">
+<meta property="og:description" content="使用 hexo 的 next 主题，发现文章的目录排列错乱，然本地的md文件完全正确，这是为什么呢？该如何解决？">
 <meta property="og:locale" content="zh-CN">
 <meta property="og:image" content="http://wx4.sinaimg.cn/large/77fca518ly1g6jxvifin9j208h0acweo.jpg">
 <meta property="og:image" content="http://ws3.sinaimg.cn/large/77fca518ly1g6jxvim1elj207j094wel.jpg">
-<meta property="og:updated_time" content="2019-09-01T05:23:17.811Z">
+<meta property="og:updated_time" content="2019-09-03T09:36:33.834Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo解析的文章目录的标题错乱">
-<meta name="twitter:description" content="使用 hexo 的 next 主题，发现文章的目录排列错乱，然本地的md文件完全正确，这是为什么呢？ 目录排列错乱效果图：">
+<meta name="twitter:description" content="使用 hexo 的 next 主题，发现文章的目录排列错乱，然本地的md文件完全正确，这是为什么呢？该如何解决？">
 <meta name="twitter:image" content="http://wx4.sinaimg.cn/large/77fca518ly1g6jxvifin9j208h0acweo.jpg">
   <link rel="alternate" href="/atom.xml" title="浪里个浪的博客" type="application/atom+xml">
   <link rel="canonical" href="http://kevin-okay.github.io/2019/09/01/Hexo解析的文章目录的标题错乱/">
@@ -317,11 +317,19 @@
                 
               
 
-              <time title="创建时间：2019-09-01 12:56:58 / 修改时间：13:23:17" itemprop="dateCreated datePublished" datetime="2019-09-01T12:56:58+08:00">2019-09-01</time>
+              <time title="创建时间：2019-09-01 12:56:58" itemprop="dateCreated datePublished" datetime="2019-09-01T12:56:58+08:00">2019-09-01</time>
             </span>
           
             
 
+            
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2019-09-03 17:36:33" itemprop="dateModified" datetime="2019-09-03T17:36:33+08:00">2019-09-03</time>
+              </span>
             
           
             <span class="post-meta-item">
@@ -357,10 +365,11 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <p>使用 hexo 的 next 主题，发现文章的目录排列错乱，然本地的md文件完全正确，这是为什么呢？</p>
+        <p>使用 hexo 的 next 主题，发现文章的目录排列错乱，然本地的md文件完全正确，这是为什么呢？该如何解决？</p>
+<a id="more"></a>
+
 <p>目录排列错乱效果图：</p>
 <p><img src="http://wx4.sinaimg.cn/large/77fca518ly1g6jxvifin9j208h0acweo.jpg" alt></p>
-<a id="more"></a>
 <p>经过努力，最终找到原因，原来 next 自带的文章目录解析工具要求标题的排列格式是：</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">H2</span><br><span class="line">  H3</span><br><span class="line">  </span><br><span class="line">H2</span><br><span class="line">  H3</span><br><span class="line">    H4</span><br><span class="line"></span><br><span class="line">H2</span><br><span class="line">  H3</span><br><span class="line">    H4</span><br><span class="line">  H3</span><br><span class="line">    H4</span><br><span class="line">      H5</span><br><span class="line">    H4</span><br><span class="line">      H5</span><br><span class="line">        H6</span><br></pre></td></tr></table></figure>
 
