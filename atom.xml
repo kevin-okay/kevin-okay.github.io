@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevin-okay.github.io/"/>
-  <updated>2019-09-01T05:23:17.811Z</updated>
+  <updated>2019-09-03T09:21:01.132Z</updated>
   <id>http://kevin-okay.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>正则表达式</title>
+    <link href="http://kevin-okay.github.io/2019/09/03/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    <id>http://kevin-okay.github.io/2019/09/03/正则表达式/</id>
+    <published>2019-09-03T01:44:36.000Z</published>
+    <updated>2019-09-03T09:21:01.132Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;正则表达式&lt;/strong&gt;（ Regular Expression），计算机科学的一个概念，代码中常简写为 regex 或 RE，通常被用来检索、替换那些符合某个规则的文本。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://wx1.sinaimg.cn/large/77fca518ly1g6m7hca1pjj20q909qgmk.jpg&quot; alt&gt;&lt;/p&gt;
+&lt;p&gt;由于正则表达式主要应用对象是文本，因此它在各种文本编辑器场合都有应用，小到著名编辑器NotePad++，大到Microsoft Word、Visual Studio等大型编辑器，都可以使用正则表达式来处理文本内容。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="http://kevin-okay.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="java" scheme="http://kevin-okay.github.io/tags/java/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo解析的文章目录的标题错乱</title>
