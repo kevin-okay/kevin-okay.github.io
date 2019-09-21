@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevin-okay.github.io/"/>
-  <updated>2019-09-21T09:55:54.330Z</updated>
+  <updated>2019-09-21T23:42:00.865Z</updated>
   <id>http://kevin-okay.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>修改VSCode的默认终端为git-bash</title>
+    <link href="http://kevin-okay.github.io/2019/09/22/%E4%BF%AE%E6%94%B9VSCode%E7%9A%84%E9%BB%98%E8%AE%A4%E7%BB%88%E7%AB%AF%E4%B8%BAgit-bash/"/>
+    <id>http://kevin-okay.github.io/2019/09/22/修改VSCode的默认终端为git-bash/</id>
+    <published>2019-09-21T23:21:43.000Z</published>
+    <updated>2019-09-21T23:42:00.865Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;vscode 的默认终端为 (powershell, cmd)，在工作时项目分支比较多，需要经常切换分支，但自带的终端需要使用 git 指令查看当前所在分支，稍不留神就改错代码了，查看了 vscode 官方文档之后，修改默认的终端为 git-bash。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="http://kevin-okay.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="git" scheme="http://kevin-okay.github.io/tags/git/"/>
+    
+      <category term="vscode" scheme="http://kevin-okay.github.io/tags/vscode/"/>
+    
+  </entry>
   
   <entry>
     <title>设置 SSH key</title>
