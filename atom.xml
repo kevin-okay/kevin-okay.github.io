@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kevin-okay.github.io/"/>
-  <updated>2019-09-23T00:16:51.916Z</updated>
+  <updated>2019-09-23T00:59:29.152Z</updated>
   <id>http://kevin-okay.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://kevin-okay.github.io/2019/09/22/%E4%BF%AE%E6%94%B9VSCode%E7%9A%84%E9%BB%98%E8%AE%A4%E7%BB%88%E7%AB%AF%E4%B8%BAgit-bash/"/>
     <id>http://kevin-okay.github.io/2019/09/22/修改VSCode的默认终端为git-bash/</id>
     <published>2019-09-21T23:21:43.000Z</published>
-    <updated>2019-09-23T00:16:51.916Z</updated>
+    <updated>2019-09-23T00:59:29.152Z</updated>
     
     <summary type="html">
     
@@ -43,7 +43,7 @@
     <link href="http://kevin-okay.github.io/2019/09/21/%E8%AE%BE%E7%BD%AESSH-key/"/>
     <id>http://kevin-okay.github.io/2019/09/21/设置SSH-key/</id>
     <published>2019-09-21T08:32:19.000Z</published>
-    <updated>2019-09-23T00:13:00.873Z</updated>
+    <updated>2019-09-23T00:49:54.645Z</updated>
     
     <summary type="html">
     
@@ -101,9 +101,9 @@
     
       <category term="hexo" scheme="http://kevin-okay.github.io/tags/hexo/"/>
     
-      <category term="博客" scheme="http://kevin-okay.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
       <category term="next" scheme="http://kevin-okay.github.io/tags/next/"/>
+    
+      <category term="博客" scheme="http://kevin-okay.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   

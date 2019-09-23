@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[修改VSCode的默认终端为git-bash]]></title>
     <url>%2F2019%2F09%2F22%2F%E4%BF%AE%E6%94%B9VSCode%E7%9A%84%E9%BB%98%E8%AE%A4%E7%BB%88%E7%AB%AF%E4%B8%BAgit-bash%2F</url>
-    <content type="text"><![CDATA[vscode 的默认终端为 (powershell, cmd)，在工作时项目分支比较多，需要经常切换分支，但自带的终端需要使用 git 指令查看当前所在分支，稍不留神就改错代码了，查看了 vscode 官方文档之后，修改默认的终端为 git-bash。 VSCode 自带终端显示效果 修改默认终端为 git-bash 打开设置，搜索 shell 关键字，找到 Terminal › Integrated › Shell: Windows 设置项 在 settings.json 文件中，将默认的终端路径修改为 git-bash.exe 的路径 修改之后的效果 参考链接：https://blog.csdn.net/u013517122/article/details/82776607]]></content>
+    <content type="text"><![CDATA[vscode 的默认终端为 (powershell, cmd)，在工作时项目分支比较多，需要经常切换分支，但自带的终端需要使用 git 指令查看当前所在分支，稍不留神就改错代码了，查看了 vscode 官方文档之后，修改默认的终端为 git-bash。 VSCode 自带终端显示效果 修改默认终端为 git-bash 打开设置，搜索 shell 关键字，找到 Terminal › Integrated › Shell: Windows 设置项 在 settings.json 文件中，将默认的终端路径修改为 git-bash.exe 的路径 修改之后的效果 注意：以上 vscode 版本为 1.38.1 参考链接：https://blog.csdn.net/u013517122/article/details/82776607]]></content>
       <categories>
         <category>技术</category>
       </categories>
@@ -44,8 +44,8 @@
       </categories>
       <tags>
         <tag>hexo</tag>
-        <tag>博客</tag>
         <tag>next</tag>
+        <tag>博客</tag>
       </tags>
   </entry>
   <entry>
